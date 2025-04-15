@@ -1,0 +1,887 @@
+2025-04-15 10:26:03,618 - INFO - Starting Kremlin RU scraper
+2025-04-15 10:26:03,618 - INFO - Scraping article 75929
+2025-04-15 10:26:04,531 - INFO - Successfully scraped article: Открытие объектов транспортной инфраструктуры
+2025-04-15 10:26:06,537 - INFO - Scraping article 75930
+2025-04-15 10:26:06,928 - ERROR - Error scraping article 75930: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75930
+2025-04-15 10:26:08,934 - INFO - Scraping article 75931
+2025-04-15 10:26:09,514 - INFO - Successfully scraped article: Встреча с Премьер-министром Словакии Робертом Фицо
+2025-04-15 10:26:11,520 - INFO - Scraping article 75932
+2025-04-15 10:26:12,812 - INFO - Successfully scraped article: Совещание по экономическим вопросам
+2025-04-15 10:26:14,818 - INFO - Scraping article 75933
+2025-04-15 10:26:15,198 - ERROR - Error scraping article 75933: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75933
+2025-04-15 10:26:17,202 - INFO - Scraping article 75934
+2025-04-15 10:26:17,583 - ERROR - Error scraping article 75934: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75934
+2025-04-15 10:26:19,589 - INFO - Scraping article 75935
+2025-04-15 10:26:20,145 - INFO - Successfully scraped article: Телефонный разговор с Президентом Азербайджана Ильхамом Алиевым
+2025-04-15 10:26:22,147 - INFO - Scraping article 75936
+2025-04-15 10:26:22,737 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с Маргаритой Руцинской
+2025-04-15 10:26:24,742 - INFO - Scraping article 75937
+2025-04-15 10:26:25,125 - ERROR - Error scraping article 75937: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75937
+2025-04-15 10:26:27,127 - INFO - Scraping article 75938
+2025-04-15 10:26:27,883 - INFO - Successfully scraped article: Посещение Государственного Эрмитажа
+2025-04-15 10:26:29,885 - INFO - Scraping article 75939
+2025-04-15 10:26:30,641 - INFO - Successfully scraped article: Встреча с генеральным директором Государственного Эрмитажа Михаилом Пиотровским
+2025-04-15 10:26:32,644 - INFO - Scraping article 75940
+2025-04-15 10:26:33,411 - INFO - Successfully scraped article: Встреча с Президентом Таджикистана Эмомали Рахмоном
+2025-04-15 10:26:35,416 - INFO - Scraping article 75941
+2025-04-15 10:26:35,802 - ERROR - Error scraping article 75941: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75941
+2025-04-15 10:26:37,808 - INFO - Scraping article 75942
+2025-04-15 10:26:38,749 - INFO - Successfully scraped article: Неформальная встреча глав государств СНГ
+2025-04-15 10:26:40,750 - INFO - Scraping article 75943
+2025-04-15 10:26:41,152 - ERROR - Error scraping article 75943: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75943
+2025-04-15 10:26:43,158 - INFO - Scraping article 75944
+2025-04-15 10:26:43,543 - ERROR - Error scraping article 75944: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75944
+2025-04-15 10:26:45,549 - INFO - Scraping article 75945
+2025-04-15 10:26:45,933 - ERROR - Error scraping article 75945: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75945
+2025-04-15 10:26:47,938 - INFO - Scraping article 75946
+2025-04-15 10:26:48,354 - ERROR - Error scraping article 75946: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75946
+2025-04-15 10:26:50,358 - INFO - Scraping article 75947
+2025-04-15 10:26:50,934 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с Таисией Леоновой
+2025-04-15 10:26:52,939 - INFO - Scraping article 75948
+2025-04-15 10:26:53,778 - INFO - Successfully scraped article: Заседание Высшего Евразийского экономического совета
+2025-04-15 10:26:55,783 - INFO - Scraping article 75949
+2025-04-15 10:26:56,158 - ERROR - Error scraping article 75949: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75949
+2025-04-15 10:26:58,162 - INFO - Scraping article 75950
+2025-04-15 10:26:58,546 - ERROR - Error scraping article 75950: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75950
+2025-04-15 10:27:00,549 - INFO - Scraping article 75951
+2025-04-15 10:27:00,931 - ERROR - Error scraping article 75951: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75951
+2025-04-15 10:27:02,936 - INFO - Scraping article 75952
+2025-04-15 10:27:03,328 - ERROR - Error scraping article 75952: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75952
+2025-04-15 10:27:05,334 - INFO - Scraping article 75953
+2025-04-15 10:27:05,720 - ERROR - Error scraping article 75953: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75953
+2025-04-15 10:27:07,726 - INFO - Scraping article 75954
+2025-04-15 10:27:08,106 - ERROR - Error scraping article 75954: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75954
+2025-04-15 10:27:10,110 - INFO - Scraping article 75955
+2025-04-15 10:27:10,489 - ERROR - Error scraping article 75955: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75955
+2025-04-15 10:27:12,492 - INFO - Scraping article 75956
+2025-04-15 10:27:12,874 - ERROR - Error scraping article 75956: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75956
+2025-04-15 10:27:14,875 - INFO - Scraping article 75957
+2025-04-15 10:27:15,253 - ERROR - Error scraping article 75957: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75957
+2025-04-15 10:27:17,254 - INFO - Scraping article 75958
+2025-04-15 10:27:17,631 - ERROR - Error scraping article 75958: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75958
+2025-04-15 10:27:19,637 - INFO - Scraping article 75959
+2025-04-15 10:27:20,037 - ERROR - Error scraping article 75959: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75959
+2025-04-15 10:27:22,041 - INFO - Scraping article 75960
+2025-04-15 10:27:22,430 - ERROR - Error scraping article 75960: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75960
+2025-04-15 10:27:24,436 - INFO - Scraping article 75961
+2025-04-15 10:27:24,834 - ERROR - Error scraping article 75961: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75961
+2025-04-15 10:27:26,838 - INFO - Scraping article 75962
+2025-04-15 10:27:27,233 - ERROR - Error scraping article 75962: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75962
+2025-04-15 10:27:29,239 - INFO - Scraping article 75963
+2025-04-15 10:27:29,632 - ERROR - Error scraping article 75963: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75963
+2025-04-15 10:27:31,634 - INFO - Scraping article 75964
+2025-04-15 10:27:32,030 - ERROR - Error scraping article 75964: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75964
+2025-04-15 10:27:34,036 - INFO - Scraping article 75965
+2025-04-15 10:27:34,447 - ERROR - Error scraping article 75965: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75965
+2025-04-15 10:27:36,453 - INFO - Scraping article 75966
+2025-04-15 10:27:36,848 - ERROR - Error scraping article 75966: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75966
+2025-04-15 10:27:38,851 - INFO - Scraping article 75967
+2025-04-15 10:27:39,235 - ERROR - Error scraping article 75967: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75967
+2025-04-15 10:27:41,241 - INFO - Scraping article 75968
+2025-04-15 10:27:41,623 - ERROR - Error scraping article 75968: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75968
+2025-04-15 10:27:43,627 - INFO - Scraping article 75969
+2025-04-15 10:27:44,043 - ERROR - Error scraping article 75969: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75969
+2025-04-15 10:27:46,044 - INFO - Scraping article 75970
+2025-04-15 10:27:46,472 - ERROR - Error scraping article 75970: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75970
+2025-04-15 10:27:48,478 - INFO - Scraping article 75971
+2025-04-15 10:27:48,886 - ERROR - Error scraping article 75971: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75971
+2025-04-15 10:27:50,891 - INFO - Scraping article 75972
+2025-04-15 10:27:51,293 - ERROR - Error scraping article 75972: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75972
+2025-04-15 10:27:53,297 - INFO - Scraping article 75973
+2025-04-15 10:27:53,694 - ERROR - Error scraping article 75973: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75973
+2025-04-15 10:27:55,700 - INFO - Scraping article 75974
+2025-04-15 10:27:56,791 - INFO - Successfully scraped article: Ответы на вопросы журналистов
+2025-04-15 10:27:58,796 - INFO - Scraping article 75975
+2025-04-15 10:27:59,185 - ERROR - Error scraping article 75975: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75975
+2025-04-15 10:28:01,191 - INFO - Scraping article 75976
+2025-04-15 10:28:01,581 - ERROR - Error scraping article 75976: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75976
+2025-04-15 10:28:03,584 - INFO - Scraping article 75977
+2025-04-15 10:28:03,979 - ERROR - Error scraping article 75977: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75977
+2025-04-15 10:28:05,983 - INFO - Scraping article 75978
+2025-04-15 10:28:06,579 - INFO - Successfully scraped article: Видеообращение по случаю Дня спасателя
+2025-04-15 10:28:08,580 - INFO - Scraping article 75979
+2025-04-15 10:28:08,970 - ERROR - Error scraping article 75979: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75979
+2025-04-15 10:28:10,975 - INFO - Scraping article 75980
+2025-04-15 10:28:11,366 - ERROR - Error scraping article 75980: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75980
+2025-04-15 10:28:13,368 - INFO - Scraping article 75981
+2025-04-15 10:28:13,753 - ERROR - Error scraping article 75981: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75981
+2025-04-15 10:28:15,759 - INFO - Scraping article 75982
+2025-04-15 10:28:16,519 - INFO - Successfully scraped article: Встреча с главой МЧС Александром Куренковым
+2025-04-15 10:28:18,524 - INFO - Scraping article 75983
+2025-04-15 10:28:18,915 - ERROR - Error scraping article 75983: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75983
+2025-04-15 10:28:20,921 - INFO - Scraping article 75984
+2025-04-15 10:28:21,553 - ERROR - Error scraping article 75984: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75984
+2025-04-15 10:28:23,555 - INFO - Scraping article 75985
+2025-04-15 10:28:24,119 - ERROR - Error scraping article 75985: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75985
+2025-04-15 10:28:26,122 - INFO - Scraping article 75986
+2025-04-15 10:28:26,508 - ERROR - Error scraping article 75986: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75986
+2025-04-15 10:28:28,511 - INFO - Scraping article 75987
+2025-04-15 10:28:28,912 - ERROR - Error scraping article 75987: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75987
+2025-04-15 10:28:30,916 - INFO - Scraping article 75988
+2025-04-15 10:28:31,306 - ERROR - Error scraping article 75988: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75988
+2025-04-15 10:28:33,312 - INFO - Scraping article 75989
+2025-04-15 10:28:33,699 - ERROR - Error scraping article 75989: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75989
+2025-04-15 10:28:35,704 - INFO - Scraping article 75990
+2025-04-15 10:28:36,089 - ERROR - Error scraping article 75990: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75990
+2025-04-15 10:28:38,095 - INFO - Scraping article 75991
+2025-04-15 10:28:38,480 - ERROR - Error scraping article 75991: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75991
+2025-04-15 10:28:40,486 - INFO - Scraping article 75992
+2025-04-15 10:28:40,882 - ERROR - Error scraping article 75992: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75992
+2025-04-15 10:28:42,888 - INFO - Scraping article 75993
+2025-04-15 10:28:43,954 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:28:45,954 - INFO - Scraping article 75994
+2025-04-15 10:28:46,353 - ERROR - Error scraping article 75994: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75994
+2025-04-15 10:28:48,358 - INFO - Scraping article 75995
+2025-04-15 10:28:48,876 - ERROR - Error scraping article 75995: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75995
+2025-04-15 10:28:50,882 - INFO - Scraping article 75996
+2025-04-15 10:29:58,292 - ERROR - Error scraping article 75996: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75996
+2025-04-15 10:30:00,295 - INFO - Scraping article 75997
+2025-04-15 10:30:00,695 - ERROR - Error scraping article 75997: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75997
+2025-04-15 10:30:02,699 - INFO - Scraping article 75998
+2025-04-15 10:30:03,095 - ERROR - Error scraping article 75998: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75998
+2025-04-15 10:30:05,100 - INFO - Scraping article 75999
+2025-04-15 10:30:05,489 - ERROR - Error scraping article 75999: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/75999
+2025-04-15 10:30:07,495 - INFO - Scraping article 76000
+2025-04-15 10:30:07,891 - ERROR - Error scraping article 76000: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76000
+2025-04-15 10:30:09,896 - INFO - Scraping article 76001
+2025-04-15 10:30:10,476 - ERROR - Error scraping article 76001: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76001
+2025-04-15 10:30:12,478 - INFO - Scraping article 76002
+2025-04-15 10:30:12,868 - ERROR - Error scraping article 76002: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76002
+2025-04-15 10:30:14,874 - INFO - Scraping article 76003
+2025-04-15 10:30:15,447 - INFO - Successfully scraped article: Телефонный разговор с Президентом Азербайджана Ильхамом Алиевым
+2025-04-15 10:30:17,449 - INFO - Scraping article 76004
+2025-04-15 10:30:17,835 - ERROR - Error scraping article 76004: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76004
+2025-04-15 10:30:19,837 - INFO - Scraping article 76005
+2025-04-15 10:30:20,239 - ERROR - Error scraping article 76005: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76005
+2025-04-15 10:30:22,245 - INFO - Scraping article 76006
+2025-04-15 10:30:22,638 - ERROR - Error scraping article 76006: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76006
+2025-04-15 10:30:24,643 - INFO - Scraping article 76007
+2025-04-15 10:30:25,036 - ERROR - Error scraping article 76007: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76007
+2025-04-15 10:30:27,038 - INFO - Scraping article 76008
+2025-04-15 10:30:27,434 - ERROR - Error scraping article 76008: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76008
+2025-04-15 10:30:29,440 - INFO - Scraping article 76009
+2025-04-15 10:30:29,840 - ERROR - Error scraping article 76009: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76009
+2025-04-15 10:30:31,843 - INFO - Scraping article 76010
+2025-04-15 10:30:32,243 - ERROR - Error scraping article 76010: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76010
+2025-04-15 10:30:34,245 - INFO - Scraping article 76011
+2025-04-15 10:30:34,641 - ERROR - Error scraping article 76011: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76011
+2025-04-15 10:30:36,647 - INFO - Scraping article 76012
+2025-04-15 10:30:37,044 - ERROR - Error scraping article 76012: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76012
+2025-04-15 10:30:39,051 - INFO - Scraping article 76013
+2025-04-15 10:30:39,441 - ERROR - Error scraping article 76013: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76013
+2025-04-15 10:30:41,443 - INFO - Scraping article 76014
+2025-04-15 10:30:41,833 - ERROR - Error scraping article 76014: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76014
+2025-04-15 10:30:43,835 - INFO - Scraping article 76015
+2025-04-15 10:30:44,462 - INFO - Successfully scraped article: Телефонный разговор с Президентом Казахстана Касым-Жомартом Токаевым
+2025-04-15 10:30:46,466 - INFO - Scraping article 76016
+2025-04-15 10:30:46,861 - ERROR - Error scraping article 76016: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76016
+2025-04-15 10:30:48,866 - INFO - Scraping article 76017
+2025-04-15 10:30:49,261 - ERROR - Error scraping article 76017: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76017
+2025-04-15 10:30:51,266 - INFO - Scraping article 76018
+2025-04-15 10:30:51,660 - ERROR - Error scraping article 76018: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76018
+2025-04-15 10:30:53,665 - INFO - Scraping article 76019
+2025-04-15 10:30:54,047 - ERROR - Error scraping article 76019: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76019
+2025-04-15 10:30:56,049 - INFO - Scraping article 76020
+2025-04-15 10:30:56,446 - ERROR - Error scraping article 76020: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76020
+2025-04-15 10:30:58,451 - INFO - Scraping article 76021
+2025-04-15 10:30:58,836 - ERROR - Error scraping article 76021: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76021
+2025-04-15 10:31:00,840 - INFO - Scraping article 76022
+2025-04-15 10:31:01,230 - ERROR - Error scraping article 76022: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76022
+2025-04-15 10:31:03,231 - INFO - Scraping article 76023
+2025-04-15 10:31:03,617 - ERROR - Error scraping article 76023: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76023
+2025-04-15 10:31:05,622 - INFO - Scraping article 76024
+2025-04-15 10:32:13,038 - ERROR - Error scraping article 76024: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76024
+2025-04-15 10:32:15,042 - INFO - Scraping article 76025
+2025-04-15 10:32:15,444 - ERROR - Error scraping article 76025: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76025
+2025-04-15 10:32:17,448 - INFO - Scraping article 76026
+2025-04-15 10:32:17,838 - ERROR - Error scraping article 76026: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76026
+2025-04-15 10:32:19,844 - INFO - Scraping article 76027
+2025-04-15 10:32:20,235 - ERROR - Error scraping article 76027: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76027
+2025-04-15 10:32:22,241 - INFO - Scraping article 76028
+2025-04-15 10:32:22,627 - ERROR - Error scraping article 76028: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76028
+2025-04-15 10:32:24,632 - INFO - Scraping article 76029
+2025-04-15 10:32:25,025 - ERROR - Error scraping article 76029: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76029
+2025-04-15 10:32:27,029 - INFO - Scraping article 76030
+2025-04-15 10:32:27,424 - ERROR - Error scraping article 76030: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76030
+2025-04-15 10:32:29,425 - INFO - Scraping article 76031
+2025-04-15 10:32:29,821 - ERROR - Error scraping article 76031: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76031
+2025-04-15 10:32:31,822 - INFO - Scraping article 76032
+2025-04-15 10:32:32,226 - ERROR - Error scraping article 76032: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76032
+2025-04-15 10:32:34,231 - INFO - Scraping article 76033
+2025-04-15 10:32:34,627 - ERROR - Error scraping article 76033: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76033
+2025-04-15 10:32:36,631 - INFO - Scraping article 76034
+2025-04-15 10:32:37,026 - ERROR - Error scraping article 76034: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76034
+2025-04-15 10:32:39,032 - INFO - Scraping article 76035
+2025-04-15 10:32:39,426 - ERROR - Error scraping article 76035: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76035
+2025-04-15 10:32:41,432 - INFO - Scraping article 76036
+2025-04-15 10:32:42,019 - ERROR - Error scraping article 76036: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76036
+2025-04-15 10:32:44,025 - INFO - Scraping article 76037
+2025-04-15 10:32:44,423 - ERROR - Error scraping article 76037: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76037
+2025-04-15 10:32:46,426 - INFO - Scraping article 76038
+2025-04-15 10:32:46,805 - ERROR - Error scraping article 76038: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76038
+2025-04-15 10:32:48,807 - INFO - Scraping article 76039
+2025-04-15 10:32:49,181 - ERROR - Error scraping article 76039: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76039
+2025-04-15 10:32:51,187 - INFO - Scraping article 76040
+2025-04-15 10:32:51,571 - ERROR - Error scraping article 76040: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76040
+2025-04-15 10:32:53,574 - INFO - Scraping article 76041
+2025-04-15 10:32:53,959 - ERROR - Error scraping article 76041: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76041
+2025-04-15 10:32:55,965 - INFO - Scraping article 76042
+2025-04-15 10:32:56,346 - ERROR - Error scraping article 76042: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76042
+2025-04-15 10:32:58,349 - INFO - Scraping article 76043
+2025-04-15 10:32:58,730 - ERROR - Error scraping article 76043: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76043
+2025-04-15 10:33:00,732 - INFO - Scraping article 76044
+2025-04-15 10:33:01,123 - ERROR - Error scraping article 76044: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76044
+2025-04-15 10:33:03,130 - INFO - Scraping article 76045
+2025-04-15 10:33:03,515 - ERROR - Error scraping article 76045: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76045
+2025-04-15 10:33:05,519 - INFO - Scraping article 76046
+2025-04-15 10:33:05,902 - ERROR - Error scraping article 76046: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76046
+2025-04-15 10:33:07,907 - INFO - Scraping article 76047
+2025-04-15 10:33:08,281 - ERROR - Error scraping article 76047: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76047
+2025-04-15 10:33:10,283 - INFO - Scraping article 76048
+2025-04-15 10:33:10,664 - ERROR - Error scraping article 76048: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76048
+2025-04-15 10:33:12,669 - INFO - Scraping article 76049
+2025-04-15 10:33:13,045 - ERROR - Error scraping article 76049: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76049
+2025-04-15 10:33:15,049 - INFO - Scraping article 76050
+2025-04-15 10:33:15,424 - ERROR - Error scraping article 76050: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76050
+2025-04-15 10:33:17,430 - INFO - Scraping article 76051
+2025-04-15 10:33:17,813 - ERROR - Error scraping article 76051: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76051
+2025-04-15 10:33:19,815 - INFO - Scraping article 76052
+2025-04-15 10:33:20,190 - ERROR - Error scraping article 76052: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76052
+2025-04-15 10:33:22,193 - INFO - Scraping article 76053
+2025-04-15 10:33:22,563 - ERROR - Error scraping article 76053: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76053
+2025-04-15 10:33:24,567 - INFO - Scraping article 76054
+2025-04-15 10:33:24,948 - ERROR - Error scraping article 76054: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76054
+2025-04-15 10:33:26,951 - INFO - Scraping article 76055
+2025-04-15 10:33:27,327 - ERROR - Error scraping article 76055: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76055
+2025-04-15 10:33:29,332 - INFO - Scraping article 76056
+2025-04-15 10:33:29,718 - ERROR - Error scraping article 76056: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76056
+2025-04-15 10:33:31,723 - INFO - Scraping article 76057
+2025-04-15 10:33:32,111 - ERROR - Error scraping article 76057: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76057
+2025-04-15 10:33:34,115 - INFO - Scraping article 76058
+2025-04-15 10:33:34,499 - ERROR - Error scraping article 76058: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76058
+2025-04-15 10:33:36,502 - INFO - Scraping article 76059
+2025-04-15 10:33:36,877 - ERROR - Error scraping article 76059: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76059
+2025-04-15 10:33:38,881 - INFO - Scraping article 76060
+2025-04-15 10:33:39,254 - ERROR - Error scraping article 76060: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76060
+2025-04-15 10:33:41,258 - INFO - Scraping article 76061
+2025-04-15 10:33:41,655 - ERROR - Error scraping article 76061: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76061
+2025-04-15 10:33:43,660 - INFO - Scraping article 76062
+2025-04-15 10:33:44,039 - ERROR - Error scraping article 76062: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76062
+2025-04-15 10:33:46,040 - INFO - Scraping article 76063
+2025-04-15 10:33:46,426 - ERROR - Error scraping article 76063: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76063
+2025-04-15 10:33:48,432 - INFO - Scraping article 76064
+2025-04-15 10:33:48,824 - ERROR - Error scraping article 76064: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76064
+2025-04-15 10:33:50,830 - INFO - Scraping article 76065
+2025-04-15 10:33:51,206 - ERROR - Error scraping article 76065: 404 Client Error: Not Found for url: http://kremlin.ru/events/president/news/76065
+2025-04-15 10:34:22,103 - INFO - Starting Kremlin RU scraper
+2025-04-15 10:34:22,103 - INFO - Scraping listing page 10
+2025-04-15 10:34:23,052 - INFO - Found article URL: http://kremlin.ru/events/president/news/76095
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76094
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76088
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76087
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76073
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76074
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76067
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76015
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/76003
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75993
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75982
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75978
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75974
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75948
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75947
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75942
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75940
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75939
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75938
+2025-04-15 10:34:23,053 - INFO - Found article URL: http://kremlin.ru/events/president/news/75936
+2025-04-15 10:34:23,053 - INFO - Scraping article http://kremlin.ru/events/president/news/76095
+2025-04-15 10:34:23,863 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:34:25,865 - INFO - Scraping article http://kremlin.ru/events/president/news/76094
+2025-04-15 10:34:27,394 - INFO - Successfully scraped article: Совещание с членами Правительства
+2025-04-15 10:34:29,399 - INFO - Scraping article http://kremlin.ru/events/president/news/76088
+2025-04-15 10:34:30,004 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с Ариной Порхал
+2025-04-15 10:34:32,006 - INFO - Scraping article http://kremlin.ru/events/president/news/76087
+2025-04-15 10:34:32,838 - INFO - Successfully scraped article: Поздравление с Рождеством Христовым
+2025-04-15 10:34:34,844 - INFO - Scraping article http://kremlin.ru/events/president/news/76073
+2025-04-15 10:34:35,423 - INFO - Successfully scraped article: Новогоднее обращение к гражданам России
+2025-04-15 10:34:37,424 - INFO - Scraping article http://kremlin.ru/events/president/news/76074
+2025-04-15 10:34:38,011 - INFO - Successfully scraped article: Президент заслушал доклады о ходе СВО и поздравил военнослужащих с наступающим Новым годом
+2025-04-15 10:34:40,017 - INFO - Scraping article http://kremlin.ru/events/president/news/76067
+2025-04-15 10:34:41,753 - INFO - Successfully scraped article: Поздравление главам государств и правительств с Новым годом
+2025-04-15 10:34:43,758 - INFO - Scraping article http://kremlin.ru/events/president/news/76015
+2025-04-15 10:34:44,309 - INFO - Successfully scraped article: Телефонный разговор с Президентом Казахстана Касым-Жомартом Токаевым
+2025-04-15 10:34:46,314 - INFO - Scraping article http://kremlin.ru/events/president/news/76003
+2025-04-15 10:34:46,890 - INFO - Successfully scraped article: Телефонный разговор с Президентом Азербайджана Ильхамом Алиевым
+2025-04-15 10:34:48,892 - INFO - Scraping article http://kremlin.ru/events/president/news/75993
+2025-04-15 10:34:49,970 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:34:51,972 - INFO - Scraping article http://kremlin.ru/events/president/news/75982
+2025-04-15 10:34:52,668 - INFO - Successfully scraped article: Встреча с главой МЧС Александром Куренковым
+2025-04-15 10:34:54,670 - INFO - Scraping article http://kremlin.ru/events/president/news/75978
+2025-04-15 10:34:55,254 - INFO - Successfully scraped article: Видеообращение по случаю Дня спасателя
+2025-04-15 10:34:57,255 - INFO - Scraping article http://kremlin.ru/events/president/news/75974
+2025-04-15 10:34:58,861 - INFO - Successfully scraped article: Ответы на вопросы журналистов
+2025-04-15 10:35:00,867 - INFO - Scraping article http://kremlin.ru/events/president/news/75948
+2025-04-15 10:35:01,747 - INFO - Successfully scraped article: Заседание Высшего Евразийского экономического совета
+2025-04-15 10:35:03,750 - INFO - Scraping article http://kremlin.ru/events/president/news/75947
+2025-04-15 10:35:04,415 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с Таисией Леоновой
+2025-04-15 10:35:06,416 - INFO - Scraping article http://kremlin.ru/events/president/news/75942
+2025-04-15 10:35:07,386 - INFO - Successfully scraped article: Неформальная встреча глав государств СНГ
+2025-04-15 10:35:09,389 - INFO - Scraping article http://kremlin.ru/events/president/news/75940
+2025-04-15 10:35:10,220 - INFO - Successfully scraped article: Встреча с Президентом Таджикистана Эмомали Рахмоном
+2025-04-15 10:35:12,223 - INFO - Scraping article http://kremlin.ru/events/president/news/75939
+2025-04-15 10:35:13,022 - INFO - Successfully scraped article: Встреча с генеральным директором Государственного Эрмитажа Михаилом Пиотровским
+2025-04-15 10:35:15,023 - INFO - Scraping article http://kremlin.ru/events/president/news/75938
+2025-04-15 10:35:16,019 - INFO - Successfully scraped article: Посещение Государственного Эрмитажа
+2025-04-15 10:35:18,022 - INFO - Scraping article http://kremlin.ru/events/president/news/75936
+2025-04-15 10:35:18,648 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с Маргаритой Руцинской
+2025-04-15 10:35:22,657 - INFO - Scraping listing page 9
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76148
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76149
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76147
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76145
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76140
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76137
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76135
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76134
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76131
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76126
+2025-04-15 10:35:23,569 - INFO - Found article URL: http://kremlin.ru/events/president/news/76125
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76123
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76114
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76112
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76111
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76110
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76104
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76101
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76099
+2025-04-15 10:35:23,570 - INFO - Found article URL: http://kremlin.ru/events/president/news/76097
+2025-04-15 10:35:23,570 - INFO - Scraping article http://kremlin.ru/events/president/news/76148
+2025-04-15 10:35:25,639 - INFO - Successfully scraped article: Совещание с членами Правительства
+2025-04-15 10:35:27,640 - INFO - Scraping article http://kremlin.ru/events/president/news/76149
+2025-04-15 10:35:28,226 - INFO - Successfully scraped article: Телефонный разговор с Президентом Республики Гвинея-Бисау Умару Сиссоку Эмбало
+2025-04-15 10:35:30,231 - INFO - Scraping article http://kremlin.ru/events/president/news/76147
+2025-04-15 10:35:32,127 - INFO - Successfully scraped article: Заседание наблюдательного совета АСИ
+2025-04-15 10:35:34,131 - INFO - Scraping article http://kremlin.ru/events/president/news/76145
+2025-04-15 10:35:35,439 - INFO - Successfully scraped article: Совещание по экономическим вопросам
+2025-04-15 10:35:37,442 - INFO - Scraping article http://kremlin.ru/events/president/news/76140
+2025-04-15 10:35:37,984 - INFO - Successfully scraped article: Телефонный разговор с Президентом Египта Абдельфаттахом Сиси
+2025-04-15 10:35:39,985 - INFO - Scraping article http://kremlin.ru/events/president/news/76137
+2025-04-15 10:35:40,544 - INFO - Successfully scraped article: Переговоры с Председателем КНР Си Цзиньпином
+2025-04-15 10:35:42,547 - INFO - Scraping article http://kremlin.ru/events/president/news/76135
+2025-04-15 10:35:43,617 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:35:45,623 - INFO - Scraping article http://kremlin.ru/events/president/news/76134
+2025-04-15 10:35:46,176 - INFO - Successfully scraped article: Телефонный разговор с Президентом Белоруссии Александром Лукашенко
+2025-04-15 10:35:48,181 - INFO - Scraping article http://kremlin.ru/events/president/news/76131
+2025-04-15 10:35:48,911 - INFO - Successfully scraped article: Встреча с президентом Национального медицинского исследовательского центра эндокринологии Иваном Дедовым
+2025-04-15 10:35:50,913 - INFO - Scraping article http://kremlin.ru/events/president/news/76126
+2025-04-15 10:35:51,695 - INFO - Successfully scraped article: Пресс-конференция по итогам российско-иранских переговоров
+2025-04-15 10:35:53,697 - INFO - Scraping article http://kremlin.ru/events/president/news/76125
+2025-04-15 10:35:55,348 - INFO - Successfully scraped article: Переговоры с Президентом Ирана Масудом Пезешкианом
+2025-04-15 10:35:57,354 - INFO - Scraping article http://kremlin.ru/events/president/news/76123
+2025-04-15 10:35:57,932 - INFO - Successfully scraped article: Телефонный разговор с Премьер-министром Армении Николом Пашиняном
+2025-04-15 10:35:59,934 - INFO - Scraping article http://kremlin.ru/events/president/news/76114
+2025-04-15 10:36:01,198 - INFO - Successfully scraped article: Переговоры с Президентом ЦАР Фостеном Арканжем Туадерой
+2025-04-15 10:36:03,201 - INFO - Scraping article http://kremlin.ru/events/president/news/76112
+2025-04-15 10:36:03,748 - INFO - Successfully scraped article: Указ о присвоении почётного звания Российской Федерации «Город трудовой доблести»
+2025-04-15 10:36:05,751 - INFO - Scraping article http://kremlin.ru/events/president/news/76111
+2025-04-15 10:36:06,306 - INFO - Successfully scraped article: Указ о единовременной выплате некоторым категориям граждан в связи с 80-летием Победы
+2025-04-15 10:36:08,311 - INFO - Scraping article http://kremlin.ru/events/president/news/76110
+2025-04-15 10:36:09,721 - INFO - Successfully scraped article: Заседание Российского организационного комитета «Победа»
+2025-04-15 10:36:11,723 - INFO - Scraping article http://kremlin.ru/events/president/news/76104
+2025-04-15 10:36:13,238 - INFO - Successfully scraped article: Совещание по вопросам социально-экономического развития Крыма и Севастополя
+2025-04-15 10:36:15,238 - INFO - Scraping article http://kremlin.ru/events/president/news/76101
+2025-04-15 10:36:15,796 - INFO - Successfully scraped article: 17 января состоятся переговоры Владимира Путина с Президентом Исламской Республики Иран Масудом Пезешкианом, который прибудет в Россию с официальным визитом
+2025-04-15 10:36:17,801 - INFO - Scraping article http://kremlin.ru/events/president/news/76099
+2025-04-15 10:36:18,626 - INFO - Successfully scraped article: Встреча с главой РФПИ Кириллом Дмитриевым
+2025-04-15 10:36:20,628 - INFO - Scraping article http://kremlin.ru/events/president/news/76097
+2025-04-15 10:36:21,165 - INFO - Successfully scraped article: Поздравление по случаю Дня работника прокуратуры
+2025-04-15 10:36:25,166 - INFO - Scraping listing page 8
+2025-04-15 10:36:26,059 - INFO - Found article URL: http://kremlin.ru/events/president/news/76214
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76210
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76206
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76193
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76191
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76187
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76183
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76182
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76176
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76175
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76173
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76172
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76169
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76168
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76167
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76165
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76166
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76153
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76151
+2025-04-15 10:36:26,060 - INFO - Found article URL: http://kremlin.ru/events/president/news/76150
+2025-04-15 10:36:26,061 - INFO - Scraping article http://kremlin.ru/events/president/news/76214
+2025-04-15 10:36:26,785 - INFO - Successfully scraped article: Рабочая встреча с врио губернатора Курской области Александром Хинштейном
+2025-04-15 10:36:28,789 - INFO - Scraping article http://kremlin.ru/events/president/news/76210
+2025-04-15 10:36:29,894 - INFO - Successfully scraped article: Объявлены лауреаты премии Президента в области науки и инноваций для молодых учёных за 2024 год
+2025-04-15 10:36:31,898 - INFO - Scraping article http://kremlin.ru/events/president/news/76206
+2025-04-15 10:36:32,646 - INFO - Successfully scraped article: Встреча с губернатором Тверской области Игорем Руденей
+2025-04-15 10:36:34,649 - INFO - Scraping article http://kremlin.ru/events/president/news/76193
+2025-04-15 10:36:35,452 - INFO - Successfully scraped article: Встреча с Министром просвещения Сергеем Кравцовым
+2025-04-15 10:36:37,457 - INFO - Scraping article http://kremlin.ru/events/president/news/76191
+2025-04-15 10:36:37,966 - INFO - Successfully scraped article: Встреча с Патриархом Московским и всея Руси Кириллом
+2025-04-15 10:36:39,968 - INFO - Scraping article http://kremlin.ru/events/president/news/76187
+2025-04-15 10:36:40,783 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:36:42,788 - INFO - Scraping article http://kremlin.ru/events/president/news/76183
+2025-04-15 10:36:43,565 - INFO - Successfully scraped article: Встреча с Министром транспорта Романом Старовойтом
+2025-04-15 10:36:45,568 - INFO - Scraping article http://kremlin.ru/events/president/news/76182
+2025-04-15 10:36:46,322 - INFO - Successfully scraped article: Встреча с главой Дагестана Сергеем Меликовым
+2025-04-15 10:36:48,326 - INFO - Scraping article http://kremlin.ru/events/president/news/76176
+2025-04-15 10:36:48,947 - INFO - Successfully scraped article: Рабочая встреча с губернатором Самарской области Вячеславом Федорищевым
+2025-04-15 10:36:50,947 - INFO - Scraping article http://kremlin.ru/events/president/news/76175
+2025-04-15 10:36:52,173 - INFO - Successfully scraped article: Совещание по развитию беспилотных авиационных систем
+2025-04-15 10:36:54,174 - INFO - Scraping article http://kremlin.ru/events/president/news/76173
+2025-04-15 10:36:54,751 - INFO - Successfully scraped article: Посещение научно-производственного центра беспилотных авиационных систем «Самара»
+2025-04-15 10:36:56,754 - INFO - Scraping article http://kremlin.ru/events/president/news/76172
+2025-04-15 10:36:57,454 - INFO - Successfully scraped article: Посещение завода «АвтоВАЗ»
+2025-04-15 10:36:59,455 - INFO - Scraping article http://kremlin.ru/events/president/news/76169
+2025-04-15 10:36:59,995 - INFO - Successfully scraped article: Телефонный разговор с Президентом Бразилии Луисом Инасио Лулой да Силвой
+2025-04-15 10:37:01,999 - INFO - Scraping article http://kremlin.ru/events/president/news/76168
+2025-04-15 10:37:02,755 - INFO - Successfully scraped article: Встреча с губернатором Санкт-Петербурга Александром Бегловым
+2025-04-15 10:37:04,761 - INFO - Scraping article http://kremlin.ru/events/president/news/76167
+2025-04-15 10:37:05,930 - INFO - Successfully scraped article: Концерт «Ленинградская Победа»
+2025-04-15 10:37:07,936 - INFO - Scraping article http://kremlin.ru/events/president/news/76165
+2025-04-15 10:37:08,700 - INFO - Successfully scraped article: Памятные мероприятия, посвящённые 81-й годовщине снятия блокады Ленинграда
+2025-04-15 10:37:10,701 - INFO - Scraping article http://kremlin.ru/events/president/news/76166
+2025-04-15 10:37:11,210 - INFO - Successfully scraped article: Телефонный разговор с Президентом Белоруссии Александром Лукашенко
+2025-04-15 10:37:13,216 - INFO - Scraping article http://kremlin.ru/events/president/news/76153
+2025-04-15 10:37:13,854 - INFO - Successfully scraped article: Ответы на вопросы журналиста Павла Зарубина
+2025-04-15 10:37:15,857 - INFO - Scraping article http://kremlin.ru/events/president/news/76151
+2025-04-15 10:37:17,119 - INFO - Successfully scraped article: Заседание попечительского совета МГУ
+2025-04-15 10:37:19,123 - INFO - Scraping article http://kremlin.ru/events/president/news/76150
+2025-04-15 10:37:19,887 - INFO - Successfully scraped article: Посещение Московского государственного университета имени Ломоносова
+2025-04-15 10:37:23,892 - INFO - Scraping listing page 7
+2025-04-15 10:37:24,823 - INFO - Found article URL: http://kremlin.ru/events/president/news/76284
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76283
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76282
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76279
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76275
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76272
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76271
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76262
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76259
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76258
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76250
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76243
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76232
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76224
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76227
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76222
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76220
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76219
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76217
+2025-04-15 10:37:24,824 - INFO - Found article URL: http://kremlin.ru/events/president/news/76216
+2025-04-15 10:37:24,824 - INFO - Scraping article http://kremlin.ru/events/president/news/76284
+2025-04-15 10:37:25,906 - INFO - Successfully scraped article: Возложение цветов к памятнику первому мэру Санкт-Петербурга Анатолию Собчаку
+2025-04-15 10:37:27,911 - INFO - Scraping article http://kremlin.ru/events/president/news/76283
+2025-04-15 10:37:28,467 - INFO - Successfully scraped article: Юрий Борисов назначен специальным представителем Президента по вопросам международного сотрудничества в области космоса
+2025-04-15 10:37:30,472 - INFO - Scraping article http://kremlin.ru/events/president/news/76282
+2025-04-15 10:37:31,983 - INFO - Successfully scraped article: Совещание с членами Правительства
+2025-04-15 10:37:33,984 - INFO - Scraping article http://kremlin.ru/events/president/news/76279
+2025-04-15 10:37:34,928 - INFO - Successfully scraped article: Встреча с губернатором Камчатского края Владимиром Солодовым
+2025-04-15 10:37:36,929 - INFO - Scraping article http://kremlin.ru/events/president/news/76275
+2025-04-15 10:37:37,469 - INFO - Successfully scraped article: Президент поздравил Виталия Смирнова с юбилеем
+2025-04-15 10:37:39,472 - INFO - Scraping article http://kremlin.ru/events/president/news/76272
+2025-04-15 10:37:40,434 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:37:42,436 - INFO - Scraping article http://kremlin.ru/events/president/news/76271
+2025-04-15 10:37:43,236 - INFO - Successfully scraped article: Встреча с губернатором Севастополя Михаилом Развожаевым
+2025-04-15 10:37:45,240 - INFO - Scraping article http://kremlin.ru/events/president/news/76262
+2025-04-15 10:37:46,075 - INFO - Successfully scraped article: Встреча с губернатором Брянской области Александром Богомазом
+2025-04-15 10:37:48,080 - INFO - Scraping article http://kremlin.ru/events/president/news/76259
+2025-04-15 10:37:48,626 - INFO - Successfully scraped article: Телефонный разговор с Президентом США Дональдом Трампом
+2025-04-15 10:37:50,630 - INFO - Scraping article http://kremlin.ru/events/president/news/76258
+2025-04-15 10:37:51,180 - INFO - Successfully scraped article: Телефонный разговор с Президентом переходного периода Сирийской Арабской Республики Ахмедом Шараа
+2025-04-15 10:37:53,186 - INFO - Scraping article http://kremlin.ru/events/president/news/76250
+2025-04-15 10:37:53,938 - INFO - Successfully scraped article: Встреча с губернатором Калужской области Владиславом Шапшой
+2025-04-15 10:37:55,943 - INFO - Scraping article http://kremlin.ru/events/president/news/76243
+2025-04-15 10:37:56,670 - INFO - Successfully scraped article: Встреча с главой Донецкой Народной Республики Денисом Пушилиным
+2025-04-15 10:37:58,675 - INFO - Scraping article http://kremlin.ru/events/president/news/76232
+2025-04-15 10:37:59,234 - INFO - Successfully scraped article: Принята отставка Андрея Никитина
+2025-04-15 10:38:01,239 - INFO - Scraping article http://kremlin.ru/events/president/news/76224
+2025-04-15 10:38:02,262 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:38:04,264 - INFO - Scraping article http://kremlin.ru/events/president/news/76227
+2025-04-15 10:38:04,921 - INFO - Successfully scraped article: Встреча с Председателем Правительства Михаилом Мишустиным
+2025-04-15 10:38:06,925 - INFO - Scraping article http://kremlin.ru/events/president/news/76222
+2025-04-15 10:38:08,576 - INFO - Successfully scraped article: Заседание Совета по науке и образованию
+2025-04-15 10:38:10,581 - INFO - Scraping article http://kremlin.ru/events/president/news/76220
+2025-04-15 10:38:11,328 - INFO - Successfully scraped article: Беседа с лауреатами премий Президента в области науки и инноваций для молодых учёных
+2025-04-15 10:38:13,333 - INFO - Scraping article http://kremlin.ru/events/president/news/76219
+2025-04-15 10:38:14,076 - INFO - Successfully scraped article: Вручение премий Президента в области науки и инноваций для молодых учёных
+2025-04-15 10:38:16,081 - INFO - Scraping article http://kremlin.ru/events/president/news/76217
+2025-04-15 10:38:16,617 - INFO - Successfully scraped article: Дмитрий Баканов назначен генеральным директором госкорпорации «Роскосмос»
+2025-04-15 10:38:18,618 - INFO - Scraping article http://kremlin.ru/events/president/news/76216
+2025-04-15 10:38:19,188 - INFO - Successfully scraped article: Юрий Борисов освобождён от должности генерального директора госкорпорации «Роскосмос»
+2025-04-15 10:38:23,197 - INFO - Scraping listing page 6
+2025-04-15 10:38:24,364 - INFO - Found article URL: http://kremlin.ru/events/president/news/76331
+2025-04-15 10:38:24,364 - INFO - Found article URL: http://kremlin.ru/events/president/news/76330
+2025-04-15 10:38:24,364 - INFO - Found article URL: http://kremlin.ru/events/president/news/76327
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76326
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76325
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76323
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76322
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76321
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76319
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76313
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76304
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76303
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76302
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76301
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76299
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76296
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76290
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76287
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76288
+2025-04-15 10:38:24,365 - INFO - Found article URL: http://kremlin.ru/events/president/news/76285
+2025-04-15 10:38:24,365 - INFO - Scraping article http://kremlin.ru/events/president/news/76331
+2025-04-15 10:38:25,094 - INFO - Successfully scraped article: Ответы на вопросы журналиста Павла Зарубина
+2025-04-15 10:38:27,100 - INFO - Scraping article http://kremlin.ru/events/president/news/76330
+2025-04-15 10:38:27,943 - INFO - Successfully scraped article: Совещание по развитию отрасли редкоземельных металлов
+2025-04-15 10:38:29,948 - INFO - Scraping article http://kremlin.ru/events/president/news/76327
+2025-04-15 10:38:30,536 - INFO - Successfully scraped article: Телефонный разговор с Президентом Таджикистана Эмомали Рахмоном
+2025-04-15 10:38:32,541 - INFO - Scraping article http://kremlin.ru/events/president/news/76326
+2025-04-15 10:38:33,277 - INFO - Successfully scraped article: Встреча с председателем Центрального духовного управления мусульман России Талгатом Таджуддином
+2025-04-15 10:38:35,279 - INFO - Scraping article http://kremlin.ru/events/president/news/76325
+2025-04-15 10:38:35,848 - INFO - Successfully scraped article: Телефонный разговор с Председателем КНР Си Цзиньпином
+2025-04-15 10:38:37,850 - INFO - Scraping article http://kremlin.ru/events/president/news/76323
+2025-04-15 10:38:38,486 - INFO - Successfully scraped article: Возложение венка к Могиле Неизвестного Солдата
+2025-04-15 10:38:40,489 - INFO - Scraping article http://kremlin.ru/events/president/news/76322
+2025-04-15 10:38:41,724 - INFO - Successfully scraped article: Церемония награждения Героев России
+2025-04-15 10:38:43,729 - INFO - Scraping article http://kremlin.ru/events/president/news/76321
+2025-04-15 10:38:44,257 - INFO - Successfully scraped article: Поздравление по случаю Дня защитника Отечества
+2025-04-15 10:38:46,263 - INFO - Scraping article http://kremlin.ru/events/president/news/76319
+2025-04-15 10:38:47,071 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:38:49,073 - INFO - Scraping article http://kremlin.ru/events/president/news/76313
+2025-04-15 10:38:50,388 - INFO - Successfully scraped article: Посещение выставки Форума будущих технологий
+2025-04-15 10:38:52,391 - INFO - Scraping article http://kremlin.ru/events/president/news/76304
+2025-04-15 10:38:53,312 - INFO - Successfully scraped article: Пленарное заседание Форума будущих технологий
+2025-04-15 10:38:55,313 - INFO - Scraping article http://kremlin.ru/events/president/news/76303
+2025-04-15 10:38:55,853 - INFO - Successfully scraped article: Телефонный разговор с Президентом Узбекистана Шавкатом Мирзиёевым
+2025-04-15 10:38:57,856 - INFO - Scraping article http://kremlin.ru/events/president/news/76302
+2025-04-15 10:38:58,604 - INFO - Successfully scraped article: Встреча с главным раввином России Берлом Лазаром и президентом Федерации еврейских общин России Александром Бородой
+2025-04-15 10:39:00,607 - INFO - Scraping article http://kremlin.ru/events/president/news/76301
+2025-04-15 10:39:01,165 - INFO - Successfully scraped article: Телефонный разговор с Наследным принцем, Председателем Совета министров Саудовской Аравии Мухаммедом Бен Сальманом Аль Саудом
+2025-04-15 10:39:03,171 - INFO - Scraping article http://kremlin.ru/events/president/news/76299
+2025-04-15 10:39:04,053 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с командирами 810-й бригады Черноморского флота и 56-го полка 7-й десантно-штурмовой дивизии
+2025-04-15 10:39:06,058 - INFO - Scraping article http://kremlin.ru/events/president/news/76296
+2025-04-15 10:39:06,968 - INFO - Successfully scraped article: Совещание судей судов общей юрисдикции, военных и арбитражных судов
+2025-04-15 10:39:08,973 - INFO - Scraping article http://kremlin.ru/events/president/news/76290
+2025-04-15 10:39:09,838 - INFO - Successfully scraped article: Выступление на концерте, посвящённом памяти Анатолия Собчака
+2025-04-15 10:39:11,844 - INFO - Scraping article http://kremlin.ru/events/president/news/76287
+2025-04-15 10:39:12,381 - INFO - Successfully scraped article: Коллектив НПП «Радар ммс» награждён орденом Александра Невского
+2025-04-15 10:39:14,383 - INFO - Scraping article http://kremlin.ru/events/president/news/76288
+2025-04-15 10:39:15,174 - INFO - Successfully scraped article: Ответы на вопросы представителей СМИ
+2025-04-15 10:39:17,180 - INFO - Scraping article http://kremlin.ru/events/president/news/76285
+2025-04-15 10:39:17,912 - INFO - Successfully scraped article: Посещение НПП «Радар ммс»
+2025-04-15 10:39:21,919 - INFO - Scraping listing page 5
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76419
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76417
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76416
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76411
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76410
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76409
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76408
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76405
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76404
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76403
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76389
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76372
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76347
+2025-04-15 10:39:22,757 - INFO - Found article URL: http://kremlin.ru/events/president/news/76346
+2025-04-15 10:39:22,758 - INFO - Found article URL: http://kremlin.ru/events/president/news/76341
+2025-04-15 10:39:22,758 - INFO - Found article URL: http://kremlin.ru/events/president/news/76338
+2025-04-15 10:39:22,758 - INFO - Found article URL: http://kremlin.ru/events/president/news/76335
+2025-04-15 10:39:22,758 - INFO - Found article URL: http://kremlin.ru/events/president/news/76334
+2025-04-15 10:39:22,758 - INFO - Found article URL: http://kremlin.ru/events/president/news/76333
+2025-04-15 10:39:22,758 - INFO - Found article URL: http://kremlin.ru/events/president/news/76332
+2025-04-15 10:39:22,758 - INFO - Scraping article http://kremlin.ru/events/president/news/76419
+2025-04-15 10:39:23,666 - INFO - Successfully scraped article: Посещение Единого центра поддержки участников СВО
+2025-04-15 10:39:25,667 - INFO - Scraping article http://kremlin.ru/events/president/news/76417
+2025-04-15 10:39:26,251 - INFO - Successfully scraped article: Телефонный разговор с Президентом Казахстана Касым-Жомартом Токаевым
+2025-04-15 10:39:28,257 - INFO - Scraping article http://kremlin.ru/events/president/news/76416
+2025-04-15 10:39:28,801 - INFO - Successfully scraped article: Встреча с вдовой Героя России Сергея Чебнёва
+2025-04-15 10:39:30,805 - INFO - Scraping article http://kremlin.ru/events/president/news/76411
+2025-04-15 10:39:31,388 - INFO - Successfully scraped article: Александр Дарчиев назначен Чрезвычайным и Полномочным Послом России в США
+2025-04-15 10:39:33,393 - INFO - Scraping article http://kremlin.ru/events/president/news/76410
+2025-04-15 10:39:34,116 - INFO - Successfully scraped article: Встреча с избранным Президентом Абхазии Бадрой Гунбой
+2025-04-15 10:39:36,122 - INFO - Scraping article http://kremlin.ru/events/president/news/76409
+2025-04-15 10:39:38,190 - INFO - Successfully scraped article: Совещание с членами Правительства
+2025-04-15 10:39:40,192 - INFO - Scraping article http://kremlin.ru/events/president/news/76408
+2025-04-15 10:39:41,111 - INFO - Successfully scraped article: Расширенное заседание коллегии МВД
+2025-04-15 10:39:43,115 - INFO - Scraping article http://kremlin.ru/events/president/news/76405
+2025-04-15 10:39:43,945 - INFO - Successfully scraped article: Встреча с Александром Дроновым
+2025-04-15 10:39:45,950 - INFO - Scraping article http://kremlin.ru/events/president/news/76404
+2025-04-15 10:39:47,237 - INFO - Successfully scraped article: Заявления по итогам российско-мьянманских переговоров
+2025-04-15 10:39:49,238 - INFO - Scraping article http://kremlin.ru/events/president/news/76403
+2025-04-15 10:39:50,678 - INFO - Successfully scraped article: Переговоры с Премьер-министром Мьянмы Мин Аун Хлайном
+2025-04-15 10:39:52,683 - INFO - Scraping article http://kremlin.ru/events/president/news/76389
+2025-04-15 10:39:53,403 - INFO - Successfully scraped article: Встреча с главой Татарстана Рустамом Миннихановым
+2025-04-15 10:39:55,408 - INFO - Scraping article http://kremlin.ru/events/president/news/76372
+2025-04-15 10:39:55,965 - INFO - Successfully scraped article: Владимир Путин поговорил по телефону с Лидией Евтюхиной
+2025-04-15 10:39:57,969 - INFO - Scraping article http://kremlin.ru/events/president/news/76347
+2025-04-15 10:39:58,557 - INFO - Successfully scraped article: 4 марта Владимир Путин встретится с Премьер-министром Мьянмы Мин Аун Хлайном
+2025-04-15 10:40:00,562 - INFO - Scraping article http://kremlin.ru/events/president/news/76346
+2025-04-15 10:40:01,450 - INFO - Successfully scraped article: Встреча с губернатором Иркутской области Игорем Кобзевым
+2025-04-15 10:40:03,455 - INFO - Scraping article http://kremlin.ru/events/president/news/76341
+2025-04-15 10:40:04,145 - INFO - Successfully scraped article: Встреча с членом Политбюро, Секретарём Центрального комитета Трудовой партии Кореи Ли Хи Ёном
+2025-04-15 10:40:06,150 - INFO - Scraping article http://kremlin.ru/events/president/news/76338
+2025-04-15 10:40:06,985 - INFO - Successfully scraped article: Заседание коллегии ФСБ России
+2025-04-15 10:40:08,990 - INFO - Scraping article http://kremlin.ru/events/president/news/76335
+2025-04-15 10:40:09,571 - INFO - Successfully scraped article: Поздравление военнослужащим и ветеранам Сил специальных операций Вооружённых Сил России
+2025-04-15 10:40:11,576 - INFO - Scraping article http://kremlin.ru/events/president/news/76334
+2025-04-15 10:40:12,469 - INFO - Successfully scraped article: Российско-бисайские переговоры
+2025-04-15 10:40:14,472 - INFO - Scraping article http://kremlin.ru/events/president/news/76333
+2025-04-15 10:40:15,001 - INFO - Successfully scraped article: 26 февраля состоятся переговоры Владимира Путина с Президентом Республики Гвинея-Бисау Умару Сиссоку Эмбало
+2025-04-15 10:40:17,007 - INFO - Scraping article http://kremlin.ru/events/president/news/76332
+2025-04-15 10:40:17,789 - INFO - Successfully scraped article: Встреча с главой правления компании «Остров мечты» Амираном Муцоевым
+2025-04-15 10:40:21,797 - INFO - Scraping listing page 4
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76469
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76468
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76465
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76460
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76459
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76458
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76457
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76452
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76450
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76448
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76446
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76445
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76442
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76441
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76429
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76428
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76424
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76422
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76420
+2025-04-15 10:40:22,684 - INFO - Found article URL: http://kremlin.ru/events/president/news/76418
+2025-04-15 10:40:22,684 - INFO - Scraping article http://kremlin.ru/events/president/news/76469
+2025-04-15 10:40:23,530 - INFO - Successfully scraped article: Владимир Путин и Эмомали Рахмон сделали заявления для СМИ
+2025-04-15 10:40:25,535 - INFO - Scraping article http://kremlin.ru/events/president/news/76468
+2025-04-15 10:40:26,234 - INFO - Successfully scraped article: Церемония по случаю начала строительства в Таджикистане объектов культуры
+2025-04-15 10:40:28,238 - INFO - Scraping article http://kremlin.ru/events/president/news/76465
+2025-04-15 10:40:29,689 - INFO - Successfully scraped article: Российско-таджикистанские переговоры
+2025-04-15 10:40:31,694 - INFO - Scraping article http://kremlin.ru/events/president/news/76460
+2025-04-15 10:40:32,572 - INFO - Successfully scraped article: Телефонный разговор Владимира Путина, Александра Лукашенко, Эмомали Рахмона с Ильхамом Алиевым
+2025-04-15 10:40:34,577 - INFO - Scraping article http://kremlin.ru/events/president/news/76459
+2025-04-15 10:40:35,518 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:40:37,523 - INFO - Scraping article http://kremlin.ru/events/president/news/76458
+2025-04-15 10:40:38,453 - INFO - Successfully scraped article: Переговоры с Президентом Венесуэлы Николасом Мадуро
+2025-04-15 10:40:40,457 - INFO - Scraping article http://kremlin.ru/events/president/news/76457
+2025-04-15 10:40:40,985 - INFO - Successfully scraped article: Телефонный разговор с Премьер-министром Армении Николом Пашиняном
+2025-04-15 10:40:42,987 - INFO - Scraping article http://kremlin.ru/events/president/news/76452
+2025-04-15 10:40:43,633 - INFO - Successfully scraped article: Телефонный разговор с Наследным принцем, Председателем Совета министров Саудовской Аравии Мухаммедом Бен Сальманом Аль Саудом
+2025-04-15 10:40:45,635 - INFO - Scraping article http://kremlin.ru/events/president/news/76450
+2025-04-15 10:40:47,803 - INFO - Successfully scraped article: Совместная пресс-конференция с Президентом Белоруссии Александром Лукашенко
+2025-04-15 10:40:49,807 - INFO - Scraping article http://kremlin.ru/events/president/news/76448
+2025-04-15 10:40:51,146 - INFO - Successfully scraped article: Российско-белорусские переговоры
+2025-04-15 10:40:53,148 - INFO - Scraping article http://kremlin.ru/events/president/news/76446
+2025-04-15 10:40:53,992 - INFO - Successfully scraped article: Посещение пункта управления Курской группировкой
+2025-04-15 10:40:55,997 - INFO - Scraping article http://kremlin.ru/events/president/news/76445
+2025-04-15 10:40:56,565 - INFO - Successfully scraped article: 13 марта состоятся переговоры Владимира Путина с Президентом Белоруссии Александром Лукашенко
+2025-04-15 10:40:58,566 - INFO - Scraping article http://kremlin.ru/events/president/news/76442
+2025-04-15 10:40:59,683 - INFO - Successfully scraped article: Встреча с губернатором Архангельской области Александром Цыбульским
+2025-04-15 10:41:01,688 - INFO - Scraping article http://kremlin.ru/events/president/news/76441
+2025-04-15 10:41:02,232 - INFO - Successfully scraped article: Президенту доложено о ночной атаке украинских БПЛА
+2025-04-15 10:41:04,236 - INFO - Scraping article http://kremlin.ru/events/president/news/76429
+2025-04-15 10:41:04,863 - INFO - Successfully scraped article: Образована комиссия Госсовета по вопросам поддержки ветеранов боевых действий – участников СВО и членов их семей
+2025-04-15 10:41:06,867 - INFO - Scraping article http://kremlin.ru/events/president/news/76428
+2025-04-15 10:41:07,669 - INFO - Successfully scraped article: Встреча с губернатором Пермского края Дмитрием Махониным
+2025-04-15 10:41:09,675 - INFO - Scraping article http://kremlin.ru/events/president/news/76424
+2025-04-15 10:41:10,283 - INFO - Successfully scraped article: Поздравление российским женщинам с 8 Марта
+2025-04-15 10:41:12,284 - INFO - Scraping article http://kremlin.ru/events/president/news/76422
+2025-04-15 10:41:12,965 - INFO - Successfully scraped article: Телефонный разговор с Президентом Сербии Александром Вучичем
+2025-04-15 10:41:14,970 - INFO - Scraping article http://kremlin.ru/events/president/news/76420
+2025-04-15 10:41:16,137 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:41:18,142 - INFO - Scraping article http://kremlin.ru/events/president/news/76418
+2025-04-15 10:41:19,826 - INFO - Successfully scraped article: Встреча с сотрудниками и подопечными фонда «Защитники Отечества»
+2025-04-15 10:41:23,833 - INFO - Scraping listing page 3
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76536
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76538
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76534
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76526
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76525
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76524
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76521
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76519
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76516
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76513
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76505
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76503
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76497
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76488
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76489
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76484
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76478
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76479
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76477
+2025-04-15 10:41:24,233 - INFO - Found article URL: http://kremlin.ru/events/president/news/76474
+2025-04-15 10:41:24,234 - INFO - Scraping article http://kremlin.ru/events/president/news/76536
+2025-04-15 10:41:25,403 - INFO - Successfully scraped article: Заседание наблюдательного совета «Движения первых»
+2025-04-15 10:41:27,408 - INFO - Scraping article http://kremlin.ru/events/president/news/76538
+2025-04-15 10:41:28,290 - INFO - Successfully scraped article: Посещение Национального центра «Россия»
+2025-04-15 10:41:30,295 - INFO - Scraping article http://kremlin.ru/events/president/news/76534
+2025-04-15 10:41:31,024 - INFO - Successfully scraped article: Согласованный между российской и американской сторонами перечень российских и украинских объектов, подпадающих под действие временного моратория на удары по энергосистеме
+2025-04-15 10:41:33,029 - INFO - Scraping article http://kremlin.ru/events/president/news/76526
+2025-04-15 10:41:33,576 - INFO - Successfully scraped article: Основные итоги встречи экспертных групп России и США
+2025-04-15 10:41:35,580 - INFO - Scraping article http://kremlin.ru/events/president/news/76525
+2025-04-15 10:41:37,610 - INFO - Successfully scraped article: Заседание Совета по культуре и искусству
+2025-04-15 10:41:39,612 - INFO - Scraping article http://kremlin.ru/events/president/news/76524
+2025-04-15 10:41:41,445 - INFO - Successfully scraped article: Вручение премий Президента молодым деятелям культуры и за произведения для детей
+2025-04-15 10:41:43,450 - INFO - Scraping article http://kremlin.ru/events/president/news/76521
+2025-04-15 10:41:44,087 - INFO - Successfully scraped article: Телефонный разговор с Президентом ОАЭ Мухаммедом Аль Нахайяном
+2025-04-15 10:41:46,092 - INFO - Scraping article http://kremlin.ru/events/president/news/76519
+2025-04-15 10:41:46,947 - INFO - Successfully scraped article: Встреча с губернатором Краснодарского края Вениамином Кондратьевым
+2025-04-15 10:41:48,952 - INFO - Scraping article http://kremlin.ru/events/president/news/76516
+2025-04-15 10:41:50,339 - INFO - Successfully scraped article: Объявлены лауреаты премий Президента для молодых деятелей культуры и за произведения для детей и юношества 2024 года
+2025-04-15 10:41:52,344 - INFO - Scraping article http://kremlin.ru/events/president/news/76513
+2025-04-15 10:41:52,910 - INFO - Successfully scraped article: Телефонный разговор с Эмиром Катара Тамимом Бен Хамадом Аль Тани
+2025-04-15 10:41:54,913 - INFO - Scraping article http://kremlin.ru/events/president/news/76505
+2025-04-15 10:41:55,834 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:41:57,838 - INFO - Scraping article http://kremlin.ru/events/president/news/76503
+2025-04-15 10:41:58,377 - INFO - Successfully scraped article: Владимир Путин направил поздравления по случаю праздника Навруз президентам Азербайджана, Казахстана, Киргизии, Таджикистана, Туркменистана и Узбекистана
+2025-04-15 10:42:00,379 - INFO - Scraping article http://kremlin.ru/events/president/news/76497
+2025-04-15 10:42:00,951 - INFO - Successfully scraped article: Телефонный разговор с Президентом Республики Беларусь Александром Лукашенко
+2025-04-15 10:42:02,954 - INFO - Scraping article http://kremlin.ru/events/president/news/76488
+2025-04-15 10:42:03,612 - INFO - Successfully scraped article: Встреча с губернатором Костромской области Сергеем Ситниковым
+2025-04-15 10:42:05,616 - INFO - Scraping article http://kremlin.ru/events/president/news/76489
+2025-04-15 10:42:06,140 - INFO - Successfully scraped article: Президент России направил послание главе сирийского государства Ахмеду Шараа
+2025-04-15 10:42:08,146 - INFO - Scraping article http://kremlin.ru/events/president/news/76484
+2025-04-15 10:42:09,107 - INFO - Successfully scraped article: Расширенное заседание коллегии Генеральной прокуратуры
+2025-04-15 10:42:11,112 - INFO - Scraping article http://kremlin.ru/events/president/news/76478
+2025-04-15 10:42:11,654 - INFO - Successfully scraped article: Ирина Гехт назначена врио губернатора Ненецкого автономного округа
+2025-04-15 10:42:13,655 - INFO - Scraping article http://kremlin.ru/events/president/news/76479
+2025-04-15 10:42:14,256 - INFO - Successfully scraped article: Встреча с Ириной Гехт
+2025-04-15 10:42:16,261 - INFO - Scraping article http://kremlin.ru/events/president/news/76477
+2025-04-15 10:42:16,792 - INFO - Successfully scraped article: Телефонный разговор с Президентом США Дональдом Трампом
+2025-04-15 10:42:18,795 - INFO - Scraping article http://kremlin.ru/events/president/news/76474
+2025-04-15 10:42:19,587 - INFO - Successfully scraped article: Пленарное заседание съезда РСПП
+2025-04-15 10:42:23,594 - INFO - Scraping listing page 2
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76567
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76564
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76565
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76559
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76560
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76558
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76557
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76556
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76555
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76554
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76553
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76552
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76551
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76547
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76550
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76540
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76541
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76549
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76548
+2025-04-15 10:42:24,001 - INFO - Found article URL: http://kremlin.ru/events/president/news/76542
+2025-04-15 10:42:24,002 - INFO - Scraping article http://kremlin.ru/events/president/news/76567
+2025-04-15 10:42:24,778 - INFO - Successfully scraped article: Встреча с губернатором Ленинградской области Александром Дрозденко
+2025-04-15 10:42:26,783 - INFO - Scraping article http://kremlin.ru/events/president/news/76564
+2025-04-15 10:42:27,682 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:42:29,684 - INFO - Scraping article http://kremlin.ru/events/president/news/76565
+2025-04-15 10:42:30,211 - INFO - Successfully scraped article: Телефонный разговор с Президентом Турции Реджепом Тайипом Эрдоганом
+2025-04-15 10:42:32,216 - INFO - Scraping article http://kremlin.ru/events/president/news/76559
+2025-04-15 10:42:33,003 - INFO - Successfully scraped article: Церемония запуска отгрузки угля из терминала «Лавна»
+2025-04-15 10:42:35,004 - INFO - Scraping article http://kremlin.ru/events/president/news/76560
+2025-04-15 10:42:35,595 - INFO - Successfully scraped article: Встреча с участниками детских экспедиций «Росатома» на Северный полюс
+2025-04-15 10:42:37,601 - INFO - Scraping article http://kremlin.ru/events/president/news/76558
+2025-04-15 10:42:38,361 - INFO - Successfully scraped article: Посещение Штаба морских операций «Атомфлота»
+2025-04-15 10:42:40,362 - INFO - Scraping article http://kremlin.ru/events/president/news/76557
+2025-04-15 10:42:41,203 - INFO - Successfully scraped article: Владимир Путин посетил атомный подводный крейсер «Архангельск»
+2025-04-15 10:42:43,209 - INFO - Scraping article http://kremlin.ru/events/president/news/76556
+2025-04-15 10:42:43,780 - INFO - Successfully scraped article: Спуск на воду атомного подводного крейсера «Пермь»
+2025-04-15 10:42:45,784 - INFO - Scraping article http://kremlin.ru/events/president/news/76555
+2025-04-15 10:42:46,588 - INFO - Successfully scraped article: Встреча с губернатором Мурманской области Андреем Чибисом
+2025-04-15 10:42:48,603 - INFO - Scraping article http://kremlin.ru/events/president/news/76554
+2025-04-15 10:42:49,352 - INFO - Successfully scraped article: Международный форум «Арктика – территория диалога»
+2025-04-15 10:42:51,357 - INFO - Scraping article http://kremlin.ru/events/president/news/76553
+2025-04-15 10:42:52,577 - INFO - Successfully scraped article: Совещание по вопросам развития Арктической зоны и Арктического транспортного коридора
+2025-04-15 10:42:54,582 - INFO - Scraping article http://kremlin.ru/events/president/news/76552
+2025-04-15 10:42:55,424 - INFO - Successfully scraped article: Презентация мастер-планов опорных населённых пунктов Арктической зоны
+2025-04-15 10:42:57,425 - INFO - Scraping article http://kremlin.ru/events/president/news/76551
+2025-04-15 10:42:58,199 - INFO - Successfully scraped article: Посещение мемориального комплекса «Защитникам Заполярья»
+2025-04-15 10:43:00,204 - INFO - Scraping article http://kremlin.ru/events/president/news/76547
+2025-04-15 10:43:00,744 - INFO - Successfully scraped article: Поздравление с Днём войск национальной гвардии
+2025-04-15 10:43:02,749 - INFO - Scraping article http://kremlin.ru/events/president/news/76550
+2025-04-15 10:43:03,626 - INFO - Successfully scraped article: Встреча с главой Чувашии Олегом Николаевым
+2025-04-15 10:43:05,631 - INFO - Scraping article http://kremlin.ru/events/president/news/76540
+2025-04-15 10:43:06,211 - INFO - Successfully scraped article: Евгений Солнцев назначен временно исполняющим обязанности губернатора Оренбургской области
+2025-04-15 10:43:08,215 - INFO - Scraping article http://kremlin.ru/events/president/news/76541
+2025-04-15 10:43:08,795 - INFO - Successfully scraped article: Денис Паслер назначен временно исполняющим обязанности губернатора Свердловской области
+2025-04-15 10:43:10,798 - INFO - Scraping article http://kremlin.ru/events/president/news/76549
+2025-04-15 10:43:11,449 - INFO - Successfully scraped article: Встреча с Евгением Солнцевым
+2025-04-15 10:43:13,454 - INFO - Scraping article http://kremlin.ru/events/president/news/76548
+2025-04-15 10:43:14,233 - INFO - Successfully scraped article: Встреча с Денисом Паслером
+2025-04-15 10:43:16,238 - INFO - Scraping article http://kremlin.ru/events/president/news/76542
+2025-04-15 10:43:16,841 - INFO - Successfully scraped article: Выступление на церемонии открытия съезда «Движения первых»
+2025-04-15 10:43:20,845 - INFO - Scraping listing page 1
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76685
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76683
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76675
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76673
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76668
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76664
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76660
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76658
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76642
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76630
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76627
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76616
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76613
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76612
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76608
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76606
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76600
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76388
+2025-04-15 10:43:21,307 - INFO - Found article URL: http://kremlin.ru/events/president/news/76574
+2025-04-15 10:43:21,308 - INFO - Found article URL: http://kremlin.ru/events/president/news/76571
+2025-04-15 10:43:21,308 - INFO - Scraping article http://kremlin.ru/events/president/news/76685
+2025-04-15 10:43:22,584 - INFO - Successfully scraped article: Заседание Президиума Госсовета по вопросу развития инфраструктуры для жизни
+2025-04-15 10:43:24,588 - INFO - Scraping article http://kremlin.ru/events/president/news/76683
+2025-04-15 10:43:26,285 - INFO - Successfully scraped article: Совещание с членами Правительства и открытие объектов лесопромышленного комплекса
+2025-04-15 10:43:28,292 - INFO - Scraping article http://kremlin.ru/events/president/news/76675
+2025-04-15 10:43:28,674 - INFO - Successfully scraped article: Встреча со спецпосланником Президента США Стивеном Уиткоффом
+2025-04-15 10:43:30,675 - INFO - Scraping article http://kremlin.ru/events/president/news/76673
+2025-04-15 10:43:31,244 - INFO - Successfully scraped article: Совещание по стратегии развития Военно-Морского Флота
+2025-04-15 10:43:33,246 - INFO - Scraping article http://kremlin.ru/events/president/news/76668
+2025-04-15 10:43:33,810 - INFO - Successfully scraped article: Встреча с генеральным директором «ДОМ.РФ» Виталием Мутко
+2025-04-15 10:43:35,810 - INFO - Scraping article http://kremlin.ru/events/president/news/76664
+2025-04-15 10:43:36,364 - INFO - Successfully scraped article: Встреча с главой АСИ Светланой Чупшевой
+2025-04-15 10:43:38,369 - INFO - Scraping article http://kremlin.ru/events/president/news/76660
+2025-04-15 10:43:38,931 - INFO - Successfully scraped article: Встреча с губернатором Московской области Андреем Воробьёвым
+2025-04-15 10:43:40,933 - INFO - Scraping article http://kremlin.ru/events/president/news/76658
+2025-04-15 10:43:41,654 - INFO - Successfully scraped article: Телефонный разговор с Президентом Белоруссии Александром Лукашенко
+2025-04-15 10:43:43,659 - INFO - Scraping article http://kremlin.ru/events/president/news/76642
+2025-04-15 10:43:44,353 - INFO - Successfully scraped article: Встреча с главой компании «Аэрофлот» Сергеем Александровским
+2025-04-15 10:43:46,359 - INFO - Scraping article http://kremlin.ru/events/president/news/76630
+2025-04-15 10:43:47,132 - INFO - Successfully scraped article: Встреча с Министром культуры Ольгой Любимовой
+2025-04-15 10:43:49,136 - INFO - Scraping article http://kremlin.ru/events/president/news/76627
+2025-04-15 10:43:49,939 - INFO - Successfully scraped article: Встреча с генеральным директором Российского экспортного центра Вероникой Никишиной
+2025-04-15 10:43:51,939 - INFO - Scraping article http://kremlin.ru/events/president/news/76616
+2025-04-15 10:43:52,737 - INFO - Successfully scraped article: Встреча с главой Бурятии Алексеем Цыденовым
+2025-04-15 10:43:54,742 - INFO - Scraping article http://kremlin.ru/events/president/news/76613
+2025-04-15 10:43:55,356 - INFO - Successfully scraped article: Андрей Кикоть назначен первым заместителем Министра внутренних дел – начальником Службы по вопросам гражданства и регистрации иностранных граждан
+2025-04-15 10:43:57,361 - INFO - Scraping article http://kremlin.ru/events/president/news/76612
+2025-04-15 10:43:57,893 - INFO - Successfully scraped article: Указ о совершенствовании государственного управления в сфере миграции
+2025-04-15 10:43:59,899 - INFO - Scraping article http://kremlin.ru/events/president/news/76608
+2025-04-15 10:44:00,592 - INFO - Successfully scraped article: Встреча с Президентом Республики Сербской Милорадом Додиком
+2025-04-15 10:44:02,598 - INFO - Scraping article http://kremlin.ru/events/president/news/76606
+2025-04-15 10:44:03,434 - INFO - Successfully scraped article: Встреча с Министром иностранных дел Китая Ван И
+2025-04-15 10:44:05,441 - INFO - Scraping article http://kremlin.ru/events/president/news/76600
+2025-04-15 10:44:06,439 - INFO - Successfully scraped article: Совещание с постоянными членами Совета Безопасности
+2025-04-15 10:44:08,441 - INFO - Scraping article http://kremlin.ru/events/president/news/76388
+2025-04-15 10:44:09,020 - INFO - Successfully scraped article: Завершена аккредитация журналистов на освещение мероприятий, посвящённых 80-й годовщине Победы в Великой Отечественной войне 1941–1945 годов
+2025-04-15 10:44:11,026 - INFO - Scraping article http://kremlin.ru/events/president/news/76574
+2025-04-15 10:44:11,924 - INFO - Successfully scraped article: Встреча с генеральным директором госкорпорации «Роскосмос» Дмитрием Бакановым
+2025-04-15 10:44:13,925 - INFO - Scraping article http://kremlin.ru/events/president/news/76571
+2025-04-15 10:44:14,518 - INFO - Successfully scraped article: Поздравление мусульманам России с праздником Ураза-байрам
+2025-04-15 10:44:18,566 - INFO - Saved 200 articles to kremlin_articles_ru.csv
