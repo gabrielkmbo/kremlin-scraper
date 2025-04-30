@@ -885,3 +885,238 @@
 2025-04-15 10:44:13,925 - INFO - Scraping article http://kremlin.ru/events/president/news/76571
 2025-04-15 10:44:14,518 - INFO - Successfully scraped article: Поздравление мусульманам России с праздником Ураза-байрам
 2025-04-15 10:44:18,566 - INFO - Saved 200 articles to kremlin_articles_ru.csv
+2025-04-30 14:14:55,407 - INFO - Starting Kremlin RU scraper (page-based)
+2025-04-30 14:14:55,407 - INFO - Scraping listing page 10
+2025-04-30 14:14:56,306 - INFO - Scraping article http://kremlin.ru/events/president/news/76210
+2025-04-30 14:15:00,715 - INFO - Scraping article http://kremlin.ru/events/president/news/76206
+2025-04-30 14:15:03,388 - INFO - Scraping article http://kremlin.ru/events/president/news/76193
+2025-04-30 14:15:06,422 - INFO - Scraping article http://kremlin.ru/events/president/news/76191
+2025-04-30 14:15:08,831 - INFO - Scraping article http://kremlin.ru/events/president/news/76187
+2025-04-30 14:15:12,370 - INFO - Scraping article http://kremlin.ru/events/president/news/76183
+2025-04-30 14:15:15,651 - INFO - Scraping article http://kremlin.ru/events/president/news/76182
+2025-04-30 14:15:18,265 - INFO - Scraping article http://kremlin.ru/events/president/news/76176
+2025-04-30 14:15:20,852 - INFO - Scraping article http://kremlin.ru/events/president/news/76175
+2025-04-30 14:15:22,894 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6264
+2025-04-30 14:15:26,290 - INFO - Scraping article http://kremlin.ru/events/president/news/76173
+2025-04-30 14:15:28,968 - INFO - Scraping article http://kremlin.ru/events/president/news/76172
+2025-04-30 14:15:32,195 - INFO - Scraping article http://kremlin.ru/events/president/news/76169
+2025-04-30 14:15:34,536 - INFO - Scraping article http://kremlin.ru/events/president/news/76168
+2025-04-30 14:15:38,325 - INFO - Scraping article http://kremlin.ru/events/president/news/76167
+2025-04-30 14:15:39,651 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6263
+2025-04-30 14:15:43,596 - INFO - Scraping article http://kremlin.ru/events/president/news/76165
+2025-04-30 14:15:46,349 - INFO - Scraping article http://kremlin.ru/events/president/news/76166
+2025-04-30 14:15:49,065 - INFO - Scraping article http://kremlin.ru/events/president/news/76153
+2025-04-30 14:15:52,611 - INFO - Scraping article http://kremlin.ru/events/president/news/76151
+2025-04-30 14:15:53,946 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6262
+2025-04-30 14:15:56,722 - INFO - Scraping article http://kremlin.ru/events/president/news/76150
+2025-04-30 14:15:59,303 - INFO - Scraping article http://kremlin.ru/events/president/news/76148
+2025-04-30 14:16:00,908 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6261
+2025-04-30 14:16:07,042 - INFO - Scraping listing page 9
+2025-04-30 14:16:08,042 - INFO - Scraping article http://kremlin.ru/events/president/news/76283
+2025-04-30 14:16:11,462 - INFO - Scraping article http://kremlin.ru/events/president/news/76282
+2025-04-30 14:16:13,966 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6267
+2025-04-30 14:16:17,823 - INFO - Scraping article http://kremlin.ru/events/president/news/76279
+2025-04-30 14:16:21,195 - INFO - Scraping article http://kremlin.ru/events/president/news/76275
+2025-04-30 14:16:24,422 - INFO - Scraping article http://kremlin.ru/events/president/news/76272
+2025-04-30 14:16:28,164 - INFO - Scraping article http://kremlin.ru/events/president/news/76271
+2025-04-30 14:16:31,297 - INFO - Scraping article http://kremlin.ru/events/president/news/76262
+2025-04-30 14:16:34,550 - INFO - Scraping article http://kremlin.ru/events/president/news/76259
+2025-04-30 14:16:37,197 - INFO - Scraping article http://kremlin.ru/events/president/news/76258
+2025-04-30 14:16:39,642 - INFO - Scraping article http://kremlin.ru/events/president/news/76250
+2025-04-30 14:16:42,267 - INFO - Scraping article http://kremlin.ru/events/president/news/76243
+2025-04-30 14:16:45,594 - INFO - Scraping article http://kremlin.ru/events/president/news/76232
+2025-04-30 14:16:48,762 - INFO - Scraping article http://kremlin.ru/events/president/news/76224
+2025-04-30 14:16:51,580 - INFO - Scraping article http://kremlin.ru/events/president/news/76227
+2025-04-30 14:16:54,242 - INFO - Scraping article http://kremlin.ru/events/president/news/76222
+2025-04-30 14:16:56,206 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6266
+2025-04-30 14:16:59,630 - INFO - Scraping article http://kremlin.ru/events/president/news/76220
+2025-04-30 14:17:02,781 - INFO - Scraping article http://kremlin.ru/events/president/news/76219
+2025-04-30 14:17:06,261 - INFO - Scraping article http://kremlin.ru/events/president/news/76217
+2025-04-30 14:17:08,970 - INFO - Scraping article http://kremlin.ru/events/president/news/76216
+2025-04-30 14:17:12,463 - INFO - Scraping article http://kremlin.ru/events/president/news/76214
+2025-04-30 14:17:18,980 - INFO - Scraping listing page 8
+2025-04-30 14:17:19,724 - INFO - Scraping article http://kremlin.ru/events/president/news/76330
+2025-04-30 14:17:22,297 - INFO - Scraping article http://kremlin.ru/events/president/news/76327
+2025-04-30 14:17:25,708 - INFO - Scraping article http://kremlin.ru/events/president/news/76326
+2025-04-30 14:17:29,337 - INFO - Scraping article http://kremlin.ru/events/president/news/76325
+2025-04-30 14:17:31,696 - INFO - Scraping article http://kremlin.ru/events/president/news/76323
+2025-04-30 14:17:34,516 - INFO - Scraping article http://kremlin.ru/events/president/news/76322
+2025-04-30 14:17:35,765 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6270
+2025-04-30 14:17:38,375 - INFO - Scraping article http://kremlin.ru/events/president/news/76321
+2025-04-30 14:17:41,261 - INFO - Scraping article http://kremlin.ru/events/president/news/76319
+2025-04-30 14:17:44,429 - INFO - Scraping article http://kremlin.ru/events/president/news/76313
+2025-04-30 14:17:48,029 - INFO - Scraping article http://kremlin.ru/events/president/news/76304
+2025-04-30 14:17:50,684 - INFO - Scraping article http://kremlin.ru/events/president/news/76303
+2025-04-30 14:17:54,109 - INFO - Scraping article http://kremlin.ru/events/president/news/76302
+2025-04-30 14:17:57,061 - INFO - Scraping article http://kremlin.ru/events/president/news/76301
+2025-04-30 14:18:00,725 - INFO - Scraping article http://kremlin.ru/events/president/news/76299
+2025-04-30 14:40:31,937 - ERROR - Error scraping article http://kremlin.ru/events/president/news/76299: HTTPConnectionPool(host='kremlin.ru', port=80): Read timed out. (read timeout=15)
+2025-04-30 14:40:37,730 - INFO - Scraping article http://kremlin.ru/events/president/news/76296
+2025-04-30 14:40:40,828 - INFO - Scraping article http://kremlin.ru/events/president/news/76290
+2025-04-30 14:40:43,939 - INFO - Scraping article http://kremlin.ru/events/president/news/76287
+2025-04-30 14:40:54,001 - INFO - Scraping article http://kremlin.ru/events/president/news/76288
+2025-04-30 14:40:56,290 - INFO - Scraping article http://kremlin.ru/events/president/news/76285
+2025-04-30 14:40:59,933 - INFO - Scraping article http://kremlin.ru/events/president/news/76284
+2025-04-30 14:41:02,928 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6268
+2025-04-30 14:41:13,425 - INFO - Scraping listing page 7
+2025-04-30 14:41:14,372 - INFO - Scraping article http://kremlin.ru/events/president/news/76417
+2025-04-30 14:41:16,494 - INFO - Scraping article http://kremlin.ru/events/president/news/76416
+2025-04-30 14:41:20,030 - INFO - Scraping article http://kremlin.ru/events/president/news/76411
+2025-04-30 14:41:22,663 - INFO - Scraping article http://kremlin.ru/events/president/news/76410
+2025-04-30 14:42:56,073 - INFO - Scraping article http://kremlin.ru/events/president/news/76409
+2025-04-30 14:43:04,590 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6275
+2025-04-30 14:43:08,090 - INFO - Scraping article http://kremlin.ru/events/president/news/76408
+2025-04-30 14:44:59,120 - INFO - Scraping article http://kremlin.ru/events/president/news/76405
+2025-04-30 14:45:57,606 - ERROR - Error scraping article http://kremlin.ru/events/president/news/76405: HTTPConnectionPool(host='kremlin.ru', port=80): Max retries exceeded with url: /events/president/news/76405 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x1688a76b0>: Failed to resolve 'kremlin.ru' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-30 14:46:00,219 - INFO - Scraping article http://kremlin.ru/events/president/news/76404
+2025-04-30 14:47:50,714 - INFO - Scraping article http://kremlin.ru/events/president/news/76403
+2025-04-30 14:47:53,533 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6272
+2025-04-30 14:47:58,518 - INFO - Scraping article http://kremlin.ru/events/president/news/76389
+2025-04-30 14:48:02,078 - INFO - Scraping article http://kremlin.ru/events/president/news/76372
+2025-04-30 14:48:11,447 - INFO - Scraping article http://kremlin.ru/events/president/news/76347
+2025-04-30 14:48:14,349 - INFO - Scraping article http://kremlin.ru/events/president/news/76346
+2025-04-30 14:48:16,667 - INFO - Scraping article http://kremlin.ru/events/president/news/76341
+2025-04-30 14:48:18,985 - INFO - Scraping article http://kremlin.ru/events/president/news/76338
+2025-04-30 14:48:22,268 - INFO - Scraping article http://kremlin.ru/events/president/news/76335
+2025-04-30 14:48:25,879 - INFO - Scraping article http://kremlin.ru/events/president/news/76334
+2025-04-30 14:48:28,953 - INFO - Scraping article http://kremlin.ru/events/president/news/76333
+2025-04-30 14:48:31,160 - INFO - Scraping article http://kremlin.ru/events/president/news/76332
+2025-04-30 14:48:33,920 - INFO - Scraping article http://kremlin.ru/events/president/news/76331
+2025-04-30 14:48:40,011 - INFO - Scraping listing page 6
+2025-04-30 14:48:40,848 - INFO - Scraping article http://kremlin.ru/events/president/news/76468
+2025-04-30 14:48:43,151 - INFO - Scraping article http://kremlin.ru/events/president/news/76465
+2025-04-30 14:48:47,693 - INFO - Scraping article http://kremlin.ru/events/president/news/76460
+2025-04-30 14:48:50,868 - INFO - Scraping article http://kremlin.ru/events/president/news/76459
+2025-04-30 14:48:54,557 - INFO - Scraping article http://kremlin.ru/events/president/news/76458
+2025-04-30 14:48:57,340 - INFO - Scraping article http://kremlin.ru/events/president/news/76457
+2025-04-30 14:49:00,370 - INFO - Scraping article http://kremlin.ru/events/president/news/76452
+2025-04-30 14:49:03,443 - INFO - Scraping article http://kremlin.ru/events/president/news/76450
+2025-04-30 14:49:10,672 - INFO - Scraping article http://kremlin.ru/events/president/news/76448
+2025-04-30 14:49:12,109 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6277
+2025-04-30 14:49:15,864 - INFO - Scraping article http://kremlin.ru/events/president/news/76446
+2025-04-30 14:49:19,090 - INFO - Scraping article http://kremlin.ru/events/president/news/76445
+2025-04-30 14:49:22,110 - INFO - Scraping article http://kremlin.ru/events/president/news/76442
+2025-04-30 14:49:25,723 - INFO - Scraping article http://kremlin.ru/events/president/news/76441
+2025-04-30 14:49:29,213 - INFO - Scraping article http://kremlin.ru/events/president/news/76429
+2025-04-30 14:49:32,730 - INFO - Scraping article http://kremlin.ru/events/president/news/76428
+2025-04-30 14:49:35,597 - INFO - Scraping article http://kremlin.ru/events/president/news/76424
+2025-04-30 14:49:38,269 - INFO - Scraping article http://kremlin.ru/events/president/news/76422
+2025-04-30 14:49:41,295 - INFO - Scraping article http://kremlin.ru/events/president/news/76420
+2025-04-30 14:49:43,936 - INFO - Scraping article http://kremlin.ru/events/president/news/76418
+2025-04-30 14:49:47,382 - INFO - Scraping article http://kremlin.ru/events/president/news/76419
+2025-04-30 14:49:54,917 - INFO - Scraping listing page 5
+2025-04-30 14:49:56,001 - INFO - Scraping article http://kremlin.ru/events/president/news/76538
+2025-04-30 14:49:58,767 - INFO - Scraping article http://kremlin.ru/events/president/news/76534
+2025-04-30 14:50:00,903 - INFO - Scraping article http://kremlin.ru/events/president/news/76526
+2025-04-30 14:50:03,354 - INFO - Scraping article http://kremlin.ru/events/president/news/76525
+2025-04-30 14:50:05,240 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6285
+2025-04-30 14:50:07,792 - INFO - Scraping article http://kremlin.ru/events/president/news/76524
+2025-04-30 14:50:13,596 - INFO - Scraping article http://kremlin.ru/events/president/news/76521
+2025-04-30 14:50:15,732 - INFO - Scraping article http://kremlin.ru/events/president/news/76519
+2025-04-30 14:50:18,568 - INFO - Scraping article http://kremlin.ru/events/president/news/76516
+2025-04-30 14:50:24,698 - INFO - Scraping article http://kremlin.ru/events/president/news/76513
+2025-04-30 14:50:27,211 - INFO - Scraping article http://kremlin.ru/events/president/news/76505
+2025-04-30 14:50:30,078 - INFO - Scraping article http://kremlin.ru/events/president/news/76503
+2025-04-30 14:50:32,296 - INFO - Scraping article http://kremlin.ru/events/president/news/76497
+2025-04-30 14:50:35,275 - INFO - Scraping article http://kremlin.ru/events/president/news/76488
+2025-04-30 14:50:38,923 - INFO - Scraping article http://kremlin.ru/events/president/news/76489
+2025-04-30 14:50:42,258 - INFO - Scraping article http://kremlin.ru/events/president/news/76484
+2025-04-30 14:50:45,931 - INFO - Scraping article http://kremlin.ru/events/president/news/76478
+2025-04-30 14:50:49,364 - INFO - Scraping article http://kremlin.ru/events/president/news/76479
+2025-04-30 14:50:51,539 - INFO - Scraping article http://kremlin.ru/events/president/news/76477
+2025-04-30 14:50:54,263 - INFO - Scraping article http://kremlin.ru/events/president/news/76474
+2025-04-30 14:50:57,026 - INFO - Scraping article http://kremlin.ru/events/president/news/76469
+2025-04-30 14:51:02,513 - INFO - Scraping listing page 4
+2025-04-30 14:51:02,924 - INFO - Scraping article http://kremlin.ru/events/president/news/76564
+2025-04-30 14:51:05,940 - INFO - Scraping article http://kremlin.ru/events/president/news/76565
+2025-04-30 14:51:08,786 - INFO - Scraping article http://kremlin.ru/events/president/news/76559
+2025-04-30 14:51:12,342 - INFO - Scraping article http://kremlin.ru/events/president/news/76560
+2025-04-30 14:51:14,439 - INFO - Scraping article http://kremlin.ru/events/president/news/76558
+2025-04-30 14:51:18,164 - INFO - Scraping article http://kremlin.ru/events/president/news/76557
+2025-04-30 14:51:21,671 - INFO - Scraping article http://kremlin.ru/events/president/news/76556
+2025-04-30 14:51:25,016 - INFO - Scraping article http://kremlin.ru/events/president/news/76555
+2025-04-30 14:51:28,075 - INFO - Scraping article http://kremlin.ru/events/president/news/76554
+2025-04-30 14:51:30,689 - INFO - Scraping article http://kremlin.ru/events/president/news/76553
+2025-04-30 14:51:31,911 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6287
+2025-04-30 14:51:34,504 - INFO - Scraping article http://kremlin.ru/events/president/news/76552
+2025-04-30 14:51:38,104 - INFO - Scraping article http://kremlin.ru/events/president/news/76551
+2025-04-30 14:51:42,081 - INFO - Scraping article http://kremlin.ru/events/president/news/76547
+2025-04-30 14:51:45,587 - INFO - Scraping article http://kremlin.ru/events/president/news/76550
+2025-04-30 14:51:48,599 - INFO - Scraping article http://kremlin.ru/events/president/news/76540
+2025-04-30 14:51:50,785 - INFO - Scraping article http://kremlin.ru/events/president/news/76541
+2025-04-30 14:51:53,596 - INFO - Scraping article http://kremlin.ru/events/president/news/76549
+2025-04-30 14:51:57,115 - INFO - Scraping article http://kremlin.ru/events/president/news/76548
+2025-04-30 14:52:00,548 - INFO - Scraping article http://kremlin.ru/events/president/news/76542
+2025-04-30 14:52:04,320 - INFO - Scraping article http://kremlin.ru/events/president/news/76536
+2025-04-30 14:52:11,565 - INFO - Scraping listing page 3
+2025-04-30 14:52:12,454 - INFO - Scraping article http://kremlin.ru/events/president/news/76683
+2025-04-30 14:52:14,215 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6288
+2025-04-30 14:52:17,602 - INFO - Scraping article http://kremlin.ru/events/president/news/76675
+2025-04-30 14:52:20,069 - INFO - Scraping article http://kremlin.ru/events/president/news/76673
+2025-04-30 14:52:22,786 - INFO - Scraping article http://kremlin.ru/events/president/news/76668
+2025-04-30 14:52:25,752 - INFO - Scraping article http://kremlin.ru/events/president/news/76664
+2025-04-30 14:52:29,375 - INFO - Scraping article http://kremlin.ru/events/president/news/76660
+2025-04-30 14:52:32,856 - INFO - Scraping article http://kremlin.ru/events/president/news/76658
+2025-04-30 14:52:35,560 - INFO - Scraping article http://kremlin.ru/events/president/news/76642
+2025-04-30 14:52:38,500 - INFO - Scraping article http://kremlin.ru/events/president/news/76630
+2025-04-30 14:52:42,315 - INFO - Scraping article http://kremlin.ru/events/president/news/76627
+2025-04-30 14:52:45,593 - INFO - Scraping article http://kremlin.ru/events/president/news/76616
+2025-04-30 14:52:48,703 - INFO - Scraping article http://kremlin.ru/events/president/news/76613
+2025-04-30 14:52:51,184 - INFO - Scraping article http://kremlin.ru/events/president/news/76612
+2025-04-30 14:52:53,690 - INFO - Scraping article http://kremlin.ru/events/president/news/76608
+2025-04-30 14:52:57,176 - INFO - Scraping article http://kremlin.ru/events/president/news/76606
+2025-04-30 14:52:59,623 - INFO - Scraping article http://kremlin.ru/events/president/news/76600
+2025-04-30 14:53:02,841 - INFO - Scraping article http://kremlin.ru/events/president/news/76388
+2025-04-30 14:53:05,976 - INFO - Scraping article http://kremlin.ru/events/president/news/76574
+2025-04-30 14:53:09,823 - INFO - Scraping article http://kremlin.ru/events/president/news/76571
+2025-04-30 14:53:12,831 - INFO - Scraping article http://kremlin.ru/events/president/news/76567
+2025-04-30 14:53:18,703 - INFO - Scraping listing page 2
+2025-04-30 14:53:19,724 - INFO - Scraping article http://kremlin.ru/events/president/news/76775
+2025-04-30 14:53:23,119 - INFO - Scraping article http://kremlin.ru/events/president/news/76772
+2025-04-30 14:53:25,895 - INFO - Scraping article http://kremlin.ru/events/president/news/76773
+2025-04-30 14:53:27,078 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6295
+2025-04-30 14:53:32,888 - INFO - Scraping article http://kremlin.ru/events/president/news/76738
+2025-04-30 14:53:34,417 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6294
+2025-04-30 14:53:37,292 - INFO - Scraping article http://kremlin.ru/events/president/news/76737
+2025-04-30 14:53:40,494 - INFO - Scraping article http://kremlin.ru/events/president/news/76736
+2025-04-30 14:53:43,648 - INFO - Scraping article http://kremlin.ru/events/president/news/76735
+2025-04-30 14:53:47,005 - INFO - Scraping article http://kremlin.ru/events/president/news/76731
+2025-04-30 14:53:50,296 - INFO - Scraping article http://kremlin.ru/events/president/news/76730
+2025-04-30 14:53:52,788 - INFO - Scraping article http://kremlin.ru/events/president/news/76727
+2025-04-30 14:53:55,155 - INFO - Scraping article http://kremlin.ru/events/president/news/76723
+2025-04-30 14:53:58,439 - INFO - Scraping article http://kremlin.ru/events/president/news/76717
+2025-04-30 14:54:01,659 - INFO - Scraping article http://kremlin.ru/events/president/news/76713
+2025-04-30 14:54:04,899 - INFO - Scraping article http://kremlin.ru/events/president/news/76710
+2025-04-30 14:54:07,511 - INFO - Scraping article http://kremlin.ru/events/president/news/76702
+2025-04-30 14:54:09,026 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6293
+2025-04-30 14:54:14,052 - INFO - Scraping article http://kremlin.ru/events/president/news/76694
+2025-04-30 14:54:17,131 - INFO - Scraping article http://kremlin.ru/events/president/news/76692
+2025-04-30 14:54:18,520 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6291
+2025-04-30 14:54:21,211 - INFO - Scraping article http://kremlin.ru/events/president/news/76690
+2025-04-30 14:54:24,668 - INFO - Scraping article http://kremlin.ru/events/president/news/76688
+2025-04-30 14:54:28,192 - INFO - Scraping article http://kremlin.ru/events/president/news/76685
+2025-04-30 14:54:30,276 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6290
+2025-04-30 14:54:37,252 - INFO - Scraping listing page 1
+2025-04-30 14:54:37,672 - INFO - Scraping article http://kremlin.ru/events/president/news/76834
+2025-04-30 14:54:41,067 - INFO - Scraping article http://kremlin.ru/events/president/news/76833
+2025-04-30 14:54:43,440 - INFO - Scraping article http://kremlin.ru/events/president/news/76832
+2025-04-30 14:54:45,211 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6299
+2025-04-30 14:54:47,754 - INFO - Scraping article http://kremlin.ru/events/president/news/76828
+2025-04-30 14:54:51,583 - INFO - Scraping article http://kremlin.ru/events/president/news/76825
+2025-04-30 14:54:54,988 - INFO - Scraping article http://kremlin.ru/events/president/news/76824
+2025-04-30 14:54:57,789 - INFO - Scraping article http://kremlin.ru/events/president/news/76823
+2025-04-30 14:55:01,509 - INFO - Scraping article http://kremlin.ru/events/president/news/76816
+2025-04-30 14:55:04,032 - INFO - Scraping article http://kremlin.ru/events/president/news/76813
+2025-04-30 14:55:06,771 - INFO - Scraping article http://kremlin.ru/events/president/news/76812
+2025-04-30 14:55:10,389 - INFO - Scraping article http://kremlin.ru/events/president/news/76810
+2025-04-30 14:55:12,644 - INFO - Scraping article http://kremlin.ru/events/president/news/76809
+2025-04-30 14:55:15,240 - INFO - Scraping article http://kremlin.ru/events/president/news/76807
+2025-04-30 14:55:18,075 - INFO - Scraping article http://kremlin.ru/events/president/news/76805
+2025-04-30 14:55:21,137 - INFO - Scraping article http://kremlin.ru/events/president/news/76806
+2025-04-30 14:55:23,275 - INFO - Scraping article http://kremlin.ru/events/president/news/76800
+2025-04-30 14:55:25,945 - INFO - Scraping article http://kremlin.ru/events/president/news/76797
+2025-04-30 14:55:28,696 - INFO - Scraping article http://kremlin.ru/events/president/news/76796
+2025-04-30 14:55:31,871 - INFO - Scraping article http://kremlin.ru/events/president/news/76786
+2025-04-30 14:55:33,034 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6298
+2025-04-30 14:55:36,412 - INFO - Scraping article http://kremlin.ru/events/president/news/76781
+2025-04-30 14:55:43,611 - INFO - Saved 198 articles to kremlin_articles_ru.csv
