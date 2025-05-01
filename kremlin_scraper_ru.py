@@ -193,7 +193,7 @@ class KremlinScraperRU:
             return None
 
     def scrape_all_articles(self) -> pd.DataFrame:
-        """Scrape all articles from page range"""
+        """Scrape all articles from page range (page 1, then start_page down to 2)."""
         articles_data = []
         
         for page in range(self.start_page, self.end_page - 1, -1):
