@@ -1120,3 +1120,22 @@
 2025-04-30 14:55:33,034 - INFO - Detected names list in supplement: http://kremlin.ru/supplement/6298
 2025-04-30 14:55:36,412 - INFO - Scraping article http://kremlin.ru/events/president/news/76781
 2025-04-30 14:55:43,611 - INFO - Saved 198 articles to kremlin_articles_ru.csv
+2025-05-08 00:02:22,225 - INFO - Starting Kremlin RU scraper (enhanced with full text & detailed supplements)
+2025-05-08 00:02:22,225 - INFO - --- Processing Page 1 ---
+2025-05-08 00:02:22,225 - INFO - Scraping listing page 1 (http://kremlin.ru/events/president/news)
+2025-05-08 00:02:22,646 - INFO - Scraping article: http://kremlin.ru/events/president/news/76867
+2025-05-08 00:02:23,224 - INFO - Scraping supplement: http://kremlin.ru/supplement/6303
+2025-05-08 00:02:25,721 - INFO - Scraping article: http://kremlin.ru/events/president/news/76866
+2025-05-08 00:02:26,310 - INFO - Scraping supplement: http://kremlin.ru/supplement/6302
+2025-05-08 00:02:29,010 - INFO - Scraping article: http://kremlin.ru/events/president/news/76863
+2025-05-08 00:02:29,856 - INFO - Scraping supplement: http://kremlin.ru/supplement/6301
+2025-05-08 00:02:32,504 - INFO - Scraping article: http://kremlin.ru/events/president/news/76862
+2025-05-08 00:02:36,121 - INFO - Scraping article: http://kremlin.ru/events/president/news/76860
+2025-05-08 00:02:37,052 - INFO - Scraping supplement: http://kremlin.ru/supplement/6304
+2025-05-08 00:02:39,324 - INFO - Scraping article: http://kremlin.ru/events/president/news/76857
+2025-05-08 00:02:42,476 - INFO - Scraping article: http://kremlin.ru/events/president/news/76855
+2025-05-08 00:02:45,904 - INFO - Scraping article: http://kremlin.ru/events/president/news/76854
+2025-05-08 00:02:49,122 - INFO - Scraping article: http://kremlin.ru/events/president/news/76850
+2025-05-08 00:02:52,779 - INFO - Scraping article: http://kremlin.ru/events/president/news/76851
+2025-05-08 00:02:55,560 - INFO - Scraping article: http://kremlin.ru/events/president/news/76842
+2025-05-08 00:02:58,194 - INFO - Scraping article: http://kremlin.ru/events/president/news/76841
