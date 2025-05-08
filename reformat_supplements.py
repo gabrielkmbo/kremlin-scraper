@@ -6,7 +6,7 @@ import ast
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-INPUT_CSV = 'kremlin_articles_ru.csv'
+INPUT_CSV = 'kremlin_articles_ru_enhanced.csv'
 OUTPUT_CSV = 'kremlin_articles_ru_formatted.csv'
 
 def safe_literal_eval(val):

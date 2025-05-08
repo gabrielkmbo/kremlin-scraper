@@ -107,49 +107,47 @@ class KremlinScraperRU:
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             
-            title = clean_text(soup.find('h1', class_='entry-title').text if soup.find('h1', class_='entry-title') else "")
+            # Title: Prefer h1, potentially inside specific divs if class is not 'entry-title'
+            title_elem = soup.find('h1', class_='entry-title') # Try standard first
+            if not title_elem:
+                read_top_div = soup.find('div', class_='read__top')
+                if read_top_div:
+                    title_elem = read_top_div.find('h1')
+            title = clean_text(title_elem.text if title_elem else "")
             
-            date_elem = soup.find('time', class_='read__published') # Common on supplement pages too
-            raw_date = date_elem.text.strip() if date_elem else None
-            parsed_date = self.parse_date(raw_date)
+            # Date: As per screenshot, it's in div.read_published
+            # The existing date_elem = soup.find('time', class_='read__published') was likely for main articles.
+            date_container_elem = soup.find('div', class_='read_published') 
+            raw_date_supp = clean_text(date_container_elem.text if date_container_elem else None) # clean_text will handle nested fonts
+            parsed_date_supp = self.parse_date(raw_date_supp)
             
             content_div = soup.find('div', class_='read__content')
             full_text = clean_text(str(content_div) if content_div else "")
             
             names_list = []
             if content_div:
-                # Regex: Capitalized word(s), space, Name(s) or Initial(s), space, optional dash, space, rest of line
-                # Making it more flexible for various formats observed.
-                name_pattern = re.compile(r'^([А-ЯЁ][А-ЯЁа-яё\s\-]+[А-ЯЁ])\s+([А-ЯЁ][а-яё\.]*(?:\s+[А-ЯЁ][а-яё\.]*)?)\s*[–—-]?\s*(.*)', re.MULTILINE)
-                # Simpler pattern focusing on ALL CAPS LAST NAME - Position (often more reliable)
-                # Pattern: ALL CAPS WORD(S) (Last Name) potentially with spaces, then optional First/Middle, then - Position
                 stronger_name_pattern = re.compile(r'^([А-ЯЁ\s]+[А-ЯЁ])\s*(?:–|-)\s*(.+)', re.MULTILINE)
-
-                for p_tag in content_div.find_all(['p', 'div']): # Check divs too, sometimes lists are in divs
+                name_pattern = re.compile(r'^([А-ЯЁ][А-ЯЁа-яё\s\-]+[А-ЯЁ])\s+([А-ЯЁ][а-яё\.]*(?:\s+[А-ЯЁ][а-яё\.]*)?)\s*[–—-]?\s*(.*)', re.MULTILINE)
+                for p_tag in content_div.find_all(['p', 'div']):
                     p_text = clean_text(p_tag.get_text(separator=' '))
                     if not p_text: continue
-
-                    # Try stronger pattern first
                     match = stronger_name_pattern.match(p_text)
-                    if match and len(match.group(1).strip()) > 1 and len(match.group(2).strip()) > 3: # Basic check for validity
+                    if match and len(match.group(1).strip()) > 1 and len(match.group(2).strip()) > 3:
                         names_list.append(f"{match.group(1).strip()} – {match.group(2).strip()}")
-                        continue # Found with stronger pattern
-                    
-                    # Fallback to the more general pattern if the stronger one fails
+                        continue
                     match = name_pattern.match(p_text)
                     if match:
                         last_name_candidate = match.group(1).strip()
-                        # Check if last_name_candidate is mostly uppercase and likely a surname
                         if last_name_candidate.isupper() or (sum(1 for c in last_name_candidate if c.isupper()) / len(last_name_candidate.replace(" ","")) > 0.5 and len(last_name_candidate) > 3) :
-                             names_list.append(p_text) # Keep original format from text
+                             names_list.append(p_text)
             
             return {
                 'url': supplement_url,
                 'title': title,
-                'date': parsed_date,
-                'raw_date': raw_date,
-                'place': None, # Supplements don't typically have a distinct place
-                'summary': None, # Supplements don't typically have a distinct summary
+                'date': parsed_date_supp, # Use the date parsed from supplement page
+                # 'raw_date' for supplement is removed as per request
+                # 'place' for supplement is removed
+                # 'summary' for supplement is removed
                 'full_text': full_text,
                 'names_list': names_list if names_list else None
             }
@@ -165,41 +163,31 @@ class KremlinScraperRU:
             soup = BeautifulSoup(response.text, 'html.parser')
 
             title = clean_text(soup.find('h1', class_='entry-title p-name').text if soup.find('h1', class_='entry-title p-name') else "")
-            
             date_elem = soup.find('time', class_='read__published')
-            raw_date = date_elem.text.strip() if date_elem else None
-            parsed_date = self.parse_date(raw_date)
-            
+            raw_date_article = date_elem.text.strip() if date_elem else None
+            parsed_date_article = self.parse_date(raw_date_article)
             place = clean_text(soup.find('div', class_='read__place p-location').text if soup.find('div', class_='read__place p-location') else "")
             summary = clean_text(soup.find('div', class_=['read__lead', 'entry-summary', 'p-summary']).text if soup.find('div', class_=['read__lead', 'entry-summary', 'p-summary']) else "")
-            
             article_content_div = soup.find('div', class_='read__content')
             article_full_text = clean_text(str(article_content_div) if article_content_div else "")
             article_text_chunks = chunk_text(article_full_text, CHUNK_SIZE, MAX_TEXT_CHUNKS)
 
-            # Initialize supplement fields with defaults
-            supplement_data = {
-                f'full_text_{i+1}': "" for i in range(MAX_TEXT_CHUNKS)
-            }
             article_data = {
                 'title': title,
-                'date': parsed_date,
-                'raw_date': raw_date,
+                'date': parsed_date_article,
+                'raw_date': raw_date_article, # Main article's raw date
                 'place': place,
                 'summary': summary,
                 **{f'article_full_text_{i+1}': chunk for i, chunk in enumerate(article_text_chunks)},
                 'url': url,
                 'supplement_url': None,
                 'supplement_title': None,
-                'supplement_date': None,
-                'supplement_raw_date': None,
-                'supplement_place': None,
-                'supplement_summary': None,
+                'supplement_date': None, # Parsed date for supplement
+                # supplement_raw_date, supplement_place, supplement_summary removed
                  **{f'supplement_full_text_{i+1}': "" for i in range(MAX_TEXT_CHUNKS)},
-                'names': [] # Store extracted name list here
+                'names': []
             }
 
-            # Process first supplement
             supplement_links = soup.find_all('a', class_='cut__item', href=re.compile(r'/supplement/\d+'))
             if supplement_links:
                 first_supplement_url = f"{self.base_url}{supplement_links[0]['href']}"
@@ -207,22 +195,22 @@ class KremlinScraperRU:
                 if scraped_supp_data:
                     article_data['supplement_url'] = scraped_supp_data['url']
                     article_data['supplement_title'] = scraped_supp_data['title']
-                    article_data['supplement_date'] = scraped_supp_data['date']
-                    article_data['supplement_raw_date'] = scraped_supp_data['raw_date']
-                    # supplement_place and supplement_summary are intentionally None from scrape_supplement
+                    article_data['supplement_date'] = scraped_supp_data['date'] # Assign parsed date
                     supplement_text_chunks = chunk_text(scraped_supp_data['full_text'], CHUNK_SIZE, MAX_TEXT_CHUNKS)
                     for i, chunk in enumerate(supplement_text_chunks):
                         article_data[f'supplement_full_text_{i+1}'] = chunk
                     if scraped_supp_data['names_list']:
                         article_data['names'] = scraped_supp_data['names_list']
-            
             return article_data
         except Exception as e:
             logging.error(f"Error scraping article {url}: {str(e)}")
             return None
 
     def scrape_all_articles(self) -> pd.DataFrame:
+        """Scrape all articles from page range (page 1, then 2 up to start_page)."""
         articles_data = []
+        
+        # Scrape page 1 first
         logging.info("--- Processing Page 1 ---")
         article_urls_p1 = self.get_article_urls_from_page(1)
         for url in article_urls_p1:
@@ -231,9 +219,10 @@ class KremlinScraperRU:
                 articles_data.append(article_data)
             time.sleep(random.uniform(1.5, 3.0))
         
-        if self.start_page >= 2:
-            logging.info(f"--- Processing Pages {self.start_page} down to 2 ---")
-            for page in range(self.start_page, 1, -1):
+        # Scrape pages from 2 up to start_page (e.g., 2, 3, ..., 10)
+        if self.start_page >= 2: # self.start_page is 10 by default
+            logging.info(f"--- Processing Pages 2 up to {self.start_page} ---")
+            for page in range(2, self.start_page + 1):
                 logging.info(f"--- Processing Page {page} ---")
                 article_urls = self.get_article_urls_from_page(page)
                 for url in article_urls:
@@ -241,7 +230,7 @@ class KremlinScraperRU:
                     if article_data:
                         articles_data.append(article_data)
                     time.sleep(random.uniform(1.5, 3.0))
-                time.sleep(random.uniform(2.0, 4.0))
+                time.sleep(random.uniform(2.0, 4.0)) # Delay between pages
         
         df = pd.DataFrame(articles_data)
 
@@ -264,33 +253,24 @@ def main():
     try:
         df = scraper.scrape_all_articles()
         if not df.empty:
-            # Define column order carefully
             core_cols = ['title', 'date', 'raw_date', 'place', 'summary']
             article_text_cols = [f'article_full_text_{i+1}' for i in range(MAX_TEXT_CHUNKS)]
             article_url_col = ['url']
-            supp_core_cols = ['supplement_url', 'supplement_title', 'supplement_date', 'supplement_raw_date', 'supplement_place', 'supplement_summary']
+            # Adjusted supplement core columns
+            supp_core_cols = ['supplement_url', 'supplement_title', 'supplement_date']
             supp_text_cols = [f'supplement_full_text_{i+1}' for i in range(MAX_TEXT_CHUNKS)]
-            
-            # Get dynamic Name_X columns that were created
             name_cols = sorted([col for col in df.columns if col.startswith('Name_')]) 
-            
             final_ordered_columns = core_cols + article_text_cols + article_url_col + \
                                     supp_core_cols + supp_text_cols + name_cols
-            
-            # Ensure all expected columns exist in df, add if missing (e.g. if no names found, Name_X cols won't exist yet)
             for col in final_ordered_columns:
                 if col not in df.columns:
-                    df[col] = None # or pd.NA or ""
-            
-            df = df[final_ordered_columns] # Reorder and select
-
+                    df[col] = None
+            df = df[final_ordered_columns]
             df.to_csv('kremlin_articles_ru_enhanced.csv', index=False, encoding='utf-8-sig')
             logging.info(f"Saved {len(df)} articles to kremlin_articles_ru_enhanced.csv")
             print("\nScraping Summary:")
             print(f"Total articles found: {len(df)}")
-            
-            display_cols = ['title', 'raw_date', 'place', 'supplement_title']
-            # Ensure display_cols exist before trying to print them
+            display_cols = ['title', 'raw_date', 'place', 'supplement_title', 'supplement_date']
             display_cols_present = [col for col in display_cols if col in df.columns]
             if display_cols_present:
                  print("\nFirst few entries (selected columns):")
@@ -298,12 +278,10 @@ def main():
             else:
                  print("\nFirst few entries (title only):")
                  print(tabulate(df[['title']].head(), headers='keys', tablefmt='grid', showindex=False))
-
         else:
             logging.warning("No articles were found!")
     except Exception as e:
         logging.error(f"Fatal error in main loop: {str(e)}", exc_info=True)
-        # raise # Optional: re-raise after logging for more detailed traceback if debugging
 
 if __name__ == "__main__":
     main() 
