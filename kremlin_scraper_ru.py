@@ -44,8 +44,8 @@ def chunk_text(text: str, chunk_size: int, max_chunks: int) -> List[str]:
 class KremlinScraperRU:
     def __init__(self):
         self.base_url = "http://kremlin.ru"
-        self.start_page = 10
-        self.end_page = 1
+        self.start_page = 138  # Changed from 10 to 138 for 2022
+        self.end_page = 92     # Changed from 1 to 92 for 2022
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -207,30 +207,20 @@ class KremlinScraperRU:
             return None
 
     def scrape_all_articles(self) -> pd.DataFrame:
-        """Scrape all articles from page range (page 1, then 2 up to start_page)."""
+        """Scrape all articles from page range (start_page down to end_page)."""
         articles_data = []
         
-        # Scrape page 1 first
-        logging.info("--- Processing Page 1 ---")
-        article_urls_p1 = self.get_article_urls_from_page(1)
-        for url in article_urls_p1:
-            article_data = self.scrape_article(url)
-            if article_data:
-                articles_data.append(article_data)
-            time.sleep(random.uniform(1.5, 3.0))
-        
-        # Scrape pages from 2 up to start_page (e.g., 2, 3, ..., 10)
-        if self.start_page >= 2: # self.start_page is 10 by default
-            logging.info(f"--- Processing Pages 2 up to {self.start_page} ---")
-            for page in range(2, self.start_page + 1):
-                logging.info(f"--- Processing Page {page} ---")
-                article_urls = self.get_article_urls_from_page(page)
-                for url in article_urls:
-                    article_data = self.scrape_article(url)
-                    if article_data:
-                        articles_data.append(article_data)
-                    time.sleep(random.uniform(1.5, 3.0))
-                time.sleep(random.uniform(2.0, 4.0)) # Delay between pages
+        # Scrape pages from start_page down to end_page
+        logging.info(f"--- Processing Pages {self.start_page} down to {self.end_page} for year 2022 ---")
+        for page in range(self.start_page, self.end_page - 1, -1):
+            logging.info(f"--- Processing Page {page} ---")
+            article_urls = self.get_article_urls_from_page(page)
+            for url in article_urls:
+                article_data = self.scrape_article(url)
+                if article_data:
+                    articles_data.append(article_data)
+                time.sleep(random.uniform(1.5, 3.0))
+            time.sleep(random.uniform(2.0, 4.0))  # Delay between pages
         
         df = pd.DataFrame(articles_data)
 
@@ -249,7 +239,7 @@ class KremlinScraperRU:
 
 def main():
     scraper = KremlinScraperRU()
-    logging.info("Starting Kremlin RU scraper (enhanced with full text & detailed supplements)")
+    logging.info("Starting Kremlin RU scraper for year 2022 (pages 138-92)")
     try:
         df = scraper.scrape_all_articles()
         if not df.empty:
@@ -266,8 +256,8 @@ def main():
                 if col not in df.columns:
                     df[col] = None
             df = df[final_ordered_columns]
-            df.to_csv('kremlin_articles_ru_enhanced.csv', index=False, encoding='utf-8-sig')
-            logging.info(f"Saved {len(df)} articles to kremlin_articles_ru_enhanced.csv")
+            df.to_csv('kremlin_articles_ru_2022.csv', index=False, encoding='utf-8-sig')
+            logging.info(f"Saved {len(df)} articles to kremlin_articles_ru_2022.csv")
             print("\nScraping Summary:")
             print(f"Total articles found: {len(df)}")
             display_cols = ['title', 'raw_date', 'place', 'supplement_title', 'supplement_date']
